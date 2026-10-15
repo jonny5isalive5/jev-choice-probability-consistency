@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "cases": 96,
+  "distinct_scenarios": 64,
+  "exact_note_only_twins": 32,
+  "labels": {
+    "ALLOW": 32,
+    "DENY": 32,
+    "ABSTAIN": 32
+  },
+  "method": "independent visible-text parser and record resolution; exhaustive truth completions",
+  "mismatches": []
+}

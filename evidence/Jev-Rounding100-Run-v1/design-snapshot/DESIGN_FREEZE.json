@@ -1,0 +1,16 @@
+{
+  "utc": "2026-10-15T21:59:58.404213+00:00",
+  "files": {
+    "payload-manifest.json": "c23130dfbaac460f6e6f4c7ef34cda02b4cab30616d1fc552f5cb8a1b7f7a3de",
+    "payloads/binary-1.json": "325d38398345f65a0ad17b715af3120230a8f4581ace7ac042f515355b99b54c",
+    "payloads/binary-2.json": "594fd5decfaae172dcbbfe5eb80a16b5c66c20e19aa838af8ea2f4c59b1a1ae8",
+    "payloads/ternary-1.json": "3a2159bc230d4544059146441bd8b52056cabceb5fb04f6225504471521556e0",
+    "payloads/ternary-2.json": "50d69488550de3c19e44a3382c2f1365b91eae9699e290d2121e74cf7b8cab61",
+    "payloads/ternary-3.json": "e9c031318749e880f2fd66d338a83770d0d8fbbffb7bda7afc7f533542fb40f4",
+    "payloads/ternary-4.json": "2b025975b4c251107cbb112c1bd3cec9eb504c26dc3bb5b59df379988809c8ae",
+    "payloads/ternary-5.json": "f0cb5c710b385cc7ac7eed25844141d587af8c9d00dbbfb632cd6e06700f4b27",
+    "payloads/ternary-6.json": "b6ba01e0481938a5fb53cf4a5a0bb06ade530f8a53870cb0e721f20fe02716e9",
+    "PROTOCOL.md": "8b76fa06015ef6650b54d7dade7c798b86722214b746c1c5ef503e3738007e48",
+    "schedule.json": "abb1f3ffeb919fca0d85e0ea71c55655226c204e281372c140409965120217b4"
+  }
+}

@@ -1,0 +1,1442 @@
+[
+  {
+    "attempt": 1,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 2,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 3,
+    "block": 1,
+    "module": "option-order",
+    "payload": "order-1"
+  },
+  {
+    "attempt": 4,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 5,
+    "block": 1,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 6,
+    "block": 1,
+    "module": "option-order",
+    "payload": "order-6"
+  },
+  {
+    "attempt": 7,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 8,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 9,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 10,
+    "block": 1,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 11,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 12,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 13,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 14,
+    "block": 1,
+    "module": "option-order",
+    "payload": "order-5"
+  },
+  {
+    "attempt": 15,
+    "block": 1,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 16,
+    "block": 1,
+    "module": "option-order",
+    "payload": "order-2"
+  },
+  {
+    "attempt": 17,
+    "block": 1,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 18,
+    "block": 1,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 19,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 20,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 21,
+    "block": 1,
+    "module": "option-order",
+    "payload": "order-4"
+  },
+  {
+    "attempt": 22,
+    "block": 1,
+    "module": "option-order",
+    "payload": "order-3"
+  },
+  {
+    "attempt": 23,
+    "block": 1,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 24,
+    "block": 1,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 25,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 26,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 27,
+    "block": 2,
+    "module": "option-order",
+    "payload": "order-4"
+  },
+  {
+    "attempt": 28,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 29,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 30,
+    "block": 2,
+    "module": "option-order",
+    "payload": "order-6"
+  },
+  {
+    "attempt": 31,
+    "block": 2,
+    "module": "option-order",
+    "payload": "order-3"
+  },
+  {
+    "attempt": 32,
+    "block": 2,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 33,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 34,
+    "block": 2,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 35,
+    "block": 2,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 36,
+    "block": 2,
+    "module": "option-order",
+    "payload": "order-5"
+  },
+  {
+    "attempt": 37,
+    "block": 2,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 38,
+    "block": 2,
+    "module": "option-order",
+    "payload": "order-2"
+  },
+  {
+    "attempt": 39,
+    "block": 2,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 40,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 41,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 42,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 43,
+    "block": 2,
+    "module": "option-order",
+    "payload": "order-1"
+  },
+  {
+    "attempt": 44,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 45,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 46,
+    "block": 2,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 47,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 48,
+    "block": 2,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 49,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 50,
+    "block": 3,
+    "module": "option-order",
+    "payload": "order-1"
+  },
+  {
+    "attempt": 51,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 52,
+    "block": 3,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 53,
+    "block": 3,
+    "module": "option-order",
+    "payload": "order-2"
+  },
+  {
+    "attempt": 54,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 55,
+    "block": 3,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 56,
+    "block": 3,
+    "module": "option-order",
+    "payload": "order-5"
+  },
+  {
+    "attempt": 57,
+    "block": 3,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 58,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 59,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 60,
+    "block": 3,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 61,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 62,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 63,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 64,
+    "block": 3,
+    "module": "option-order",
+    "payload": "order-4"
+  },
+  {
+    "attempt": 65,
+    "block": 3,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 66,
+    "block": 3,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 67,
+    "block": 3,
+    "module": "option-order",
+    "payload": "order-3"
+  },
+  {
+    "attempt": 68,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 69,
+    "block": 3,
+    "module": "option-order",
+    "payload": "order-6"
+  },
+  {
+    "attempt": 70,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 71,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 72,
+    "block": 3,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 73,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 74,
+    "block": 4,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 75,
+    "block": 4,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 76,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 77,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 78,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 79,
+    "block": 4,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 80,
+    "block": 4,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 81,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 82,
+    "block": 4,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 83,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 84,
+    "block": 4,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 85,
+    "block": 4,
+    "module": "option-order",
+    "payload": "order-4"
+  },
+  {
+    "attempt": 86,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 87,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 88,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 89,
+    "block": 4,
+    "module": "option-order",
+    "payload": "order-6"
+  },
+  {
+    "attempt": 90,
+    "block": 4,
+    "module": "option-order",
+    "payload": "order-3"
+  },
+  {
+    "attempt": 91,
+    "block": 4,
+    "module": "option-order",
+    "payload": "order-2"
+  },
+  {
+    "attempt": 92,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 93,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 94,
+    "block": 4,
+    "module": "option-order",
+    "payload": "order-5"
+  },
+  {
+    "attempt": 95,
+    "block": 4,
+    "module": "option-order",
+    "payload": "order-1"
+  },
+  {
+    "attempt": 96,
+    "block": 4,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 97,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 98,
+    "block": 5,
+    "module": "option-order",
+    "payload": "order-5"
+  },
+  {
+    "attempt": 99,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 100,
+    "block": 5,
+    "module": "option-order",
+    "payload": "order-3"
+  },
+  {
+    "attempt": 101,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 102,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 103,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 104,
+    "block": 5,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 105,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 106,
+    "block": 5,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 107,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 108,
+    "block": 5,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 109,
+    "block": 5,
+    "module": "option-order",
+    "payload": "order-6"
+  },
+  {
+    "attempt": 110,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 111,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 112,
+    "block": 5,
+    "module": "option-order",
+    "payload": "order-4"
+  },
+  {
+    "attempt": 113,
+    "block": 5,
+    "module": "option-order",
+    "payload": "order-1"
+  },
+  {
+    "attempt": 114,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 115,
+    "block": 5,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 116,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 117,
+    "block": 5,
+    "module": "option-order",
+    "payload": "order-2"
+  },
+  {
+    "attempt": 118,
+    "block": 5,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 119,
+    "block": 5,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 120,
+    "block": 5,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 121,
+    "block": 6,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 122,
+    "block": 6,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 123,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 124,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 125,
+    "block": 6,
+    "module": "option-order",
+    "payload": "order-3"
+  },
+  {
+    "attempt": 126,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 127,
+    "block": 6,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 128,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 129,
+    "block": 6,
+    "module": "option-order",
+    "payload": "order-1"
+  },
+  {
+    "attempt": 130,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 131,
+    "block": 6,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 132,
+    "block": 6,
+    "module": "option-order",
+    "payload": "order-2"
+  },
+  {
+    "attempt": 133,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 134,
+    "block": 6,
+    "module": "option-order",
+    "payload": "order-6"
+  },
+  {
+    "attempt": 135,
+    "block": 6,
+    "module": "option-order",
+    "payload": "order-4"
+  },
+  {
+    "attempt": 136,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 137,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 138,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 139,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 140,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 141,
+    "block": 6,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 142,
+    "block": 6,
+    "module": "option-order",
+    "payload": "order-5"
+  },
+  {
+    "attempt": 143,
+    "block": 6,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 144,
+    "block": 6,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 145,
+    "block": 7,
+    "module": "option-order",
+    "payload": "order-4"
+  },
+  {
+    "attempt": 146,
+    "block": 7,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 147,
+    "block": 7,
+    "module": "option-order",
+    "payload": "order-3"
+  },
+  {
+    "attempt": 148,
+    "block": 7,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 149,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 150,
+    "block": 7,
+    "module": "option-order",
+    "payload": "order-5"
+  },
+  {
+    "attempt": 151,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 152,
+    "block": 7,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 153,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 154,
+    "block": 7,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 155,
+    "block": 7,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 156,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 157,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 158,
+    "block": 7,
+    "module": "option-order",
+    "payload": "order-2"
+  },
+  {
+    "attempt": 159,
+    "block": 7,
+    "module": "option-order",
+    "payload": "order-1"
+  },
+  {
+    "attempt": 160,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 161,
+    "block": 7,
+    "module": "option-order",
+    "payload": "order-6"
+  },
+  {
+    "attempt": 162,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 163,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 164,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 165,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 166,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 167,
+    "block": 7,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 168,
+    "block": 7,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 169,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 170,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 171,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 172,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 173,
+    "block": 8,
+    "module": "option-order",
+    "payload": "order-6"
+  },
+  {
+    "attempt": 174,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 175,
+    "block": 8,
+    "module": "option-order",
+    "payload": "order-5"
+  },
+  {
+    "attempt": 176,
+    "block": 8,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 177,
+    "block": 8,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 178,
+    "block": 8,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 179,
+    "block": 8,
+    "module": "option-order",
+    "payload": "order-2"
+  },
+  {
+    "attempt": 180,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 181,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 182,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 183,
+    "block": 8,
+    "module": "option-order",
+    "payload": "order-4"
+  },
+  {
+    "attempt": 184,
+    "block": 8,
+    "module": "option-order",
+    "payload": "order-1"
+  },
+  {
+    "attempt": 185,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 186,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 187,
+    "block": 8,
+    "module": "option-order",
+    "payload": "order-3"
+  },
+  {
+    "attempt": 188,
+    "block": 8,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 189,
+    "block": 8,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 190,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 191,
+    "block": 8,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 192,
+    "block": 8,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 193,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 194,
+    "block": 9,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 195,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 196,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 197,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 198,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 199,
+    "block": 9,
+    "module": "option-order",
+    "payload": "order-6"
+  },
+  {
+    "attempt": 200,
+    "block": 9,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 201,
+    "block": 9,
+    "module": "option-order",
+    "payload": "order-3"
+  },
+  {
+    "attempt": 202,
+    "block": 9,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 203,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 204,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 205,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 206,
+    "block": 9,
+    "module": "option-order",
+    "payload": "order-2"
+  },
+  {
+    "attempt": 207,
+    "block": 9,
+    "module": "option-order",
+    "payload": "order-4"
+  },
+  {
+    "attempt": 208,
+    "block": 9,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 209,
+    "block": 9,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 210,
+    "block": 9,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 211,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 212,
+    "block": 9,
+    "module": "option-order",
+    "payload": "order-1"
+  },
+  {
+    "attempt": 213,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 214,
+    "block": 9,
+    "module": "option-order",
+    "payload": "order-5"
+  },
+  {
+    "attempt": 215,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 216,
+    "block": 9,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 217,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 218,
+    "block": 10,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 219,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 220,
+    "block": 10,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 221,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 222,
+    "block": 10,
+    "module": "option-order",
+    "payload": "order-2"
+  },
+  {
+    "attempt": 223,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 224,
+    "block": 10,
+    "module": "option-order",
+    "payload": "order-1"
+  },
+  {
+    "attempt": 225,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 226,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 227,
+    "block": 10,
+    "module": "option-order",
+    "payload": "order-3"
+  },
+  {
+    "attempt": 228,
+    "block": 10,
+    "module": "option-order",
+    "payload": "order-5"
+  },
+  {
+    "attempt": 229,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 230,
+    "block": 10,
+    "module": "control",
+    "payload": "control-abstain"
+  },
+  {
+    "attempt": 231,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 232,
+    "block": 10,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 233,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 234,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 235,
+    "block": 10,
+    "module": "control",
+    "payload": "control-deny"
+  },
+  {
+    "attempt": 236,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 237,
+    "block": 10,
+    "module": "exact-repeat",
+    "payload": "original"
+  },
+  {
+    "attempt": 238,
+    "block": 10,
+    "module": "control",
+    "payload": "control-allow"
+  },
+  {
+    "attempt": 239,
+    "block": 10,
+    "module": "option-order",
+    "payload": "order-4"
+  },
+  {
+    "attempt": 240,
+    "block": 10,
+    "module": "option-order",
+    "payload": "order-6"
+  }
+]

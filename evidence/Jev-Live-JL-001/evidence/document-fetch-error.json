@@ -1,0 +1,7 @@
+{
+  "operation": "unauthenticated public documentation download with Python urllib",
+  "error": "SSLCertVerificationError: certificate has expired",
+  "tls_verification_disabled": false,
+  "fallback": "official documentation read through web tool",
+  "inference_attempted": false
+}

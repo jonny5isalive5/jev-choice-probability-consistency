@@ -1,0 +1,8 @@
+{
+  "status": "STOP_CONTRACT_FAILURE_PARTIAL_RESULTS",
+  "source_archive_matches_live_source": true,
+  "source_sha256": "1d984b1d7a0e843969e729cb5d4e8d035a78dc1f0194a52e945975b78837056e",
+  "evidence_pack_sha256": "083812455e950a51b13765c2b5f9b88c615185a7506877e707c3667a39bb77f5",
+  "pack_bytes": 699320,
+  "included_files": 1108
+}

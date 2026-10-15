@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "headers": {
+    "x-typesafe-request-id": "trace_0ba6f679515c084c",
+    "date": "Thu, 15 Oct 2026 21:33:58 GMT",
+    "content-type": "application/json",
+    "x-request-id": null,
+    "x-model-version": null,
+    "x-model-fingerprint": null,
+    "x-typesafe-model-version": null,
+    "x-typesafe-model-fingerprint": null,
+    "x-cache": null,
+    "cf-cache-status": "DYNAMIC",
+    "age": null
+  },
+  "ended_utc": "2026-10-15T21:33:58.920448+00:00",
+  "latency_seconds": 0.35210770001867786,
+  "response_sha256": "ea8461fef38f0fdcc92bc911a423ae4ea9f6ebcc6c59017d970c68a4247f6b8f",
+  "secret_echo_redacted": false,
+  "over_1MiB": false
+}

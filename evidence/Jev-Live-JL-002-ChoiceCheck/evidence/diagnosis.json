@@ -1,0 +1,32 @@
+{
+  "original_response_sha256": "2533dd81a40a8a01e9e224cb498737e587cc79b536323bbac133d1e8006211fd",
+  "selected": "ALLOW",
+  "reported_leader": "ABSTAIN",
+  "reported_selected_probability": "7/20",
+  "reported_leader_probability": "9/25",
+  "probability_sum": "1",
+  "consistent_monotone_rounding_can_reverse_order": false,
+  "permissive_selected_upper": "71/200",
+  "permissive_leader_lower": "71/200",
+  "permissive_intervals_overlap": true,
+  "overlap_is_only_exact_boundary_tie": true,
+  "boundary_tie_value": "0.355",
+  "same_exact_tie_rounds_identically_for_both_options": {
+    "ROUND_HALF_UP": "0.36",
+    "ROUND_HALF_DOWN": "0.35",
+    "ROUND_HALF_EVEN": "0.36",
+    "ROUND_DOWN": "0.35",
+    "ROUND_UP": "0.36"
+  },
+  "confidence_reported": "0.04",
+  "nearest_hundredth_confidence_lower": "7/200",
+  "maximum_confidence_with_selected_max": "13/400",
+  "nearest_hundredth_probability_and_confidence_compatible": false,
+  "formula": "confidence = (p_max - 1/n) / (1 - 1/n)",
+  "judgment": "A rounding-based relaxation of the selected-choice guard is not justified by current evidence.",
+  "limits": "This excludes ordinary consistent monotone rounding and the tested nearest-hundredth interval explanation under documented semantics. It does not identify the vendor internal cause.",
+  "live_calls": 0,
+  "new_spend_usd": "0",
+  "adapter_modified": false,
+  "remaining_repeats_executed": false
+}

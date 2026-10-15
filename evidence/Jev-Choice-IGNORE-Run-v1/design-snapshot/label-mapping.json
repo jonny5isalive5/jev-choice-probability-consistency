@@ -1,0 +1,52 @@
+{
+  "original": {
+    "original_sha256": "22f8df52d803fdfd13b0aafab16147664984443109813bbac5230d958f6b000d",
+    "renamed_sha256": "6e2a28875e3cedcdcae76e3a86172d6d694f8beefefe7def751d1539fa430064",
+    "replacements": 3
+  },
+  "order-1": {
+    "original_sha256": "22f8df52d803fdfd13b0aafab16147664984443109813bbac5230d958f6b000d",
+    "renamed_sha256": "6e2a28875e3cedcdcae76e3a86172d6d694f8beefefe7def751d1539fa430064",
+    "replacements": 3
+  },
+  "order-2": {
+    "original_sha256": "4300a2c086e7d27f0e5319dfe15853c066cacf655fe4005b5b3c4382a6368f61",
+    "renamed_sha256": "f37cd165c981897581d10c99a29f820c5541882b879a80c9c2f997e0a647cd37",
+    "replacements": 3
+  },
+  "order-3": {
+    "original_sha256": "9f3cf33c46d7c2335d380278b6e2dcf6321fa08c281497556745488fe0cadf81",
+    "renamed_sha256": "ff3087057432cbc3c23d889630530ef5f848912679fb414037d4d22d5346b81d",
+    "replacements": 3
+  },
+  "order-4": {
+    "original_sha256": "6ed32c991c8d00b03a13c8ef946295efc76975e6cac811138333d3571d79fda1",
+    "renamed_sha256": "47d0ff6d192a8fd0c7542fea0868b516ad8a4437bf9b4e168f4eb4a0e6b3e983",
+    "replacements": 3
+  },
+  "order-5": {
+    "original_sha256": "9718a8a9f846a50953cd70c161482043ce240b936a005b6166887f4994b3e0fd",
+    "renamed_sha256": "56a15bda00bb3f819ba166eaa368d83da54b2c615ddf5d358a48ff136ff0692e",
+    "replacements": 3
+  },
+  "order-6": {
+    "original_sha256": "30949c60b7872baf33ac9b9d138c1f2059332b8e1f9240074d3bc5de45726820",
+    "renamed_sha256": "3577cce0e9be9772dd004b3564ca7d71791a188256ff91dccbae594f5cc0366b",
+    "replacements": 3
+  },
+  "control-allow": {
+    "original_sha256": "9131220fdc6f676afadfc28be81ff89b5e575e565af7d6fee60c6dbfe2e7c68f",
+    "renamed_sha256": "a8c90cb032024e49c964e8ad89d42887f546cfeffef4e129741fa92c0ca9c9d3",
+    "replacements": 2
+  },
+  "control-deny": {
+    "original_sha256": "015562c1bdc06f2e9baa81addb0bd9155e21a0919ef7189944ff3b275a2cb45a",
+    "renamed_sha256": "aa5c73e3cc4470b6fa45a38b58dd129c0673c5ea346830461baddc70a291fe1b",
+    "replacements": 2
+  },
+  "control-abstain": {
+    "original_sha256": "e17aa544518384d6bd663f1c668b01da4eb20273b9a74b633d54eda517ff8b66",
+    "renamed_sha256": "38365f7d605d45eb23d552ab5a223c9a756d86d865d617ac0b4421be239c3484",
+    "replacements": 2
+  }
+}

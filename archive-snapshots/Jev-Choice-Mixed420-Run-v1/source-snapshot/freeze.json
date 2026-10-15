@@ -1,0 +1,11 @@
+{
+  "frozen_at_utc": "2026-10-15T21:32:04.044896+00:00",
+  "files": {
+    "analyze.py": "94a11a0cde764c0246c838bb0e63215fd1410bda6068cb416f403e10451a17a3",
+    "diagnostic.py": "a04daff8594acc38fb7b09eb2a38b252860ee376f747138c3dab23460386fb32",
+    "secure_credential.py": "fb6aa12915312092a6f1595295023f1cbaddceb7a0d7ae16b89bf285fc5d2a11",
+    "test_mixed.py": "3ea77e050aecc186aaf9b7dae3f82fca4cf96de4ade2e06f1f4b42808205be09"
+  },
+  "design_sha256": "37f3be1395c5be55d43ac99802d9099c055aebb6c6dcb13e2418c7c2ba129de8",
+  "authorized_execution": true
+}

@@ -1,0 +1,10 @@
+test_documented_confidence_excludes_even_permissive_tie (test_rounding.Checks.test_documented_confidence_excludes_even_permissive_tie) ... ok
+test_exact_failed_response_and_sum (test_rounding.Checks.test_exact_failed_response_and_sum) ... ok
+test_independent_closed_intervals_only_touch_at_tie (test_rounding.Checks.test_independent_closed_intervals_only_touch_at_tie) ... ok
+test_standard_rounding_preserves_order_near_boundary (test_rounding.Checks.test_standard_rounding_preserves_order_near_boundary) ... ok
+test_unchanged_adapter_still_rejects_saved_failure (test_rounding.Checks.test_unchanged_adapter_still_rejects_saved_failure) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.112s
+
+OK

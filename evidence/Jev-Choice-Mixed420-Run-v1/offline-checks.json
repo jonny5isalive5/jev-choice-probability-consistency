@@ -1,0 +1,13 @@
+{
+  "utc": "2026-10-15T21:32:04.044320+00:00",
+  "tests_passed": 6,
+  "checks": [
+    "budget before transport",
+    "per-request label validation",
+    "mismatch retention and independent paired analysis",
+    "420-call balance and exact payload pairing",
+    "ties, wrong model, invalid usage and duplicate keys",
+    "unknown usage halts without retry retaining response and reserve"
+  ],
+  "credential_ready": true
+}

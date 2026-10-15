@@ -1,0 +1,8 @@
+{
+  "sealed_utc": "2026-10-15T19:52:47.465656+00:00",
+  "purpose": "Offline diagnosis only; no experimental adapter change",
+  "files": {
+    "check_rounding.py": "d746104431e3a7830e0c541bb69eaa14df49b4b5f414b0cb533b2e4aba3522c5",
+    "test_rounding.py": "35c0e7a14f705696376c3273012b77e3af2a74cfaff3142c9774dbae94ce4ab3"
+  }
+}

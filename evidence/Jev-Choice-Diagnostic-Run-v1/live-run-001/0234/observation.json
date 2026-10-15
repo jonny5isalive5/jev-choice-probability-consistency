@@ -1,0 +1,27 @@
+{
+  "model": "jev-1.14.0",
+  "usage": {
+    "input_tokens": 2409,
+    "output_tokens": 41
+  },
+  "choice": "ALLOW",
+  "probabilities": {
+    "ABSTAIN": "0.27",
+    "ALLOW": "0.47",
+    "DENY": "0.26"
+  },
+  "confidence": "0.2",
+  "max_labels": [
+    "ALLOW"
+  ],
+  "gap": "0.00",
+  "mismatch": false,
+  "original_tolerance_mismatch": false,
+  "tie": false,
+  "mass": "1.00",
+  "hundredth_grid": true,
+  "nearest_hundredth_mass_compatible": true,
+  "confidence_formula_from_reported": "0.205",
+  "confidence_formula_delta": "-0.005",
+  "nearest_hundredth_confidence_intervals_overlap": true
+}

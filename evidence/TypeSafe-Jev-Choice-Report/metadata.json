@@ -1,0 +1,24 @@
+{
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "http_method": "POST",
+  "http_status": 200,
+  "requested_and_returned_model": "jev-1.14.0",
+  "request_timestamps": [
+    {
+      "event": "reserved",
+      "utc": "2026-10-15T19:45:11.452178+00:00"
+    },
+    {
+      "event": "unresolved_retained",
+      "utc": "2026-10-15T19:45:11.759102+00:00"
+    }
+  ],
+  "request_id": "not captured by our adapter",
+  "retry_count": 0,
+  "input_kind": "fictional structured policy/evidence test; no customer records",
+  "payload_sha256": "22f8df52d803fdfd13b0aafab16147664984443109813bbac5230d958f6b000d",
+  "response_sha256": "2533dd81a40a8a01e9e224cb498737e587cc79b536323bbac133d1e8006211fd",
+  "prior_request_byte_identical": true,
+  "reproduction_status": "Observed once on this invocation. The same exact request previously gave a different answer; not claimed to reproduce on every invocation.",
+  "secrets": "Request body and response bodies only; no authorization header, key, account ID, or local file paths included."
+}

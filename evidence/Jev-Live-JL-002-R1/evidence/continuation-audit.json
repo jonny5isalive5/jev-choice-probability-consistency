@@ -1,0 +1,165 @@
+{
+  "source_freeze_verified": true,
+  "source_freeze_sha256": "b746eaf2fef340a3851fba94e8580831252388d822e469d7e22cbe4e995f6b23",
+  "original_ledger_preserved_as_exact_prefix": true,
+  "original_predictions_preserved_as_exact_prefix": true,
+  "original_221_response_files_byte_identical": true,
+  "previous_calls_replayed_without_network": 220,
+  "new_calls": 644,
+  "combined_calls": 865,
+  "automatic_retries": 0,
+  "historical_stopped_events": [
+    {
+      "arm": "swarm",
+      "case_id": "JL2-015",
+      "event": "stopped",
+      "reason": "probabilities do not sum to one",
+      "sequence": 221,
+      "stage": 2
+    }
+  ],
+  "received_model_counts": {
+    "jev-1.14.0": 865
+  },
+  "response_top_level_fields": [
+    "answers",
+    "model",
+    "usage"
+  ],
+  "separate_server_fingerprint_present": false,
+  "rounding_compatible_responses": [
+    {
+      "sequence": 221,
+      "probabilities": {
+        "ABSTAIN": 0.17,
+        "ALLOW": 0.02,
+        "DENY": 0.8
+      },
+      "sum": "0.99"
+    },
+    {
+      "sequence": 229,
+      "probabilities": {
+        "ABSTAIN": 0.28,
+        "ALLOW": 0.04,
+        "DENY": 0.67
+      },
+      "sum": "0.99"
+    },
+    {
+      "sequence": 294,
+      "probabilities": {
+        "ABSTAIN": 0.28,
+        "ALLOW": 0.05,
+        "DENY": 0.66
+      },
+      "sum": "0.99"
+    }
+  ],
+  "rounding_compatible_count": 3,
+  "usage_by_arm": {
+    "smoke": {
+      "calls": 1,
+      "input_tokens": 390,
+      "output_tokens": 41,
+      "listed_usd": "0.000016380"
+    },
+    "single": {
+      "calls": 96,
+      "input_tokens": 237044,
+      "output_tokens": 4034,
+      "listed_usd": "0.009955848"
+    },
+    "swarm": {
+      "calls": 384,
+      "input_tokens": 944198,
+      "output_tokens": 16118,
+      "listed_usd": "0.039656316"
+    },
+    "sequential": {
+      "calls": 384,
+      "input_tokens": 979913,
+      "output_tokens": 16123,
+      "listed_usd": "0.041156346"
+    }
+  },
+  "total_input_tokens": 2161545,
+  "total_output_tokens": 36316,
+  "total_listed_usd": "0.090784890",
+  "prior_listed_usd": "0.023237424",
+  "new_listed_usd": "0.067547466",
+  "gbp_estimate_using_prior_reference": "0.0690355710840443258407860",
+  "gbp_reference_is_not_settled_invoice": true,
+  "max_context_reserved_gbp": "4.761845760",
+  "easy_clean_controls": {
+    "single": {
+      "correct": 6,
+      "total": 12
+    },
+    "swarm": {
+      "correct": 5,
+      "total": 12
+    },
+    "sequential": {
+      "correct": 6,
+      "total": 12
+    }
+  },
+  "confusion_all_96": {
+    "single": {
+      "ALLOW": {
+        "ABSTAIN": 6,
+        "ALLOW": 10,
+        "DENY": 16
+      },
+      "DENY": {
+        "DENY": 31,
+        "ABSTAIN": 1
+      },
+      "ABSTAIN": {
+        "DENY": 23,
+        "ABSTAIN": 7,
+        "ALLOW": 2
+      }
+    },
+    "swarm": {
+      "ALLOW": {
+        "ABSTAIN": 4,
+        "ALLOW": 10,
+        "DENY": 18
+      },
+      "DENY": {
+        "DENY": 30,
+        "ALLOW": 1,
+        "ABSTAIN": 1
+      },
+      "ABSTAIN": {
+        "DENY": 25,
+        "ALLOW": 2,
+        "ABSTAIN": 5
+      }
+    },
+    "sequential": {
+      "ALLOW": {
+        "ABSTAIN": 4,
+        "ALLOW": 9,
+        "DENY": 19
+      },
+      "DENY": {
+        "DENY": 31,
+        "ABSTAIN": 1
+      },
+      "ABSTAIN": {
+        "DENY": 27,
+        "ALLOW": 2,
+        "ABSTAIN": 3
+      }
+    }
+  },
+  "protected_files": {
+    "checked_files": 2198,
+    "changed": [],
+    "all_unchanged": true
+  },
+  "plaintext_secret_occurrences": 0
+}

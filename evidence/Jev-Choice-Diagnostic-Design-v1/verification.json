@@ -1,0 +1,16 @@
+{
+  "checked_at_utc": "2026-10-15T21:01:20.868562+00:00",
+  "previous_manifest_files_verified": 3594,
+  "protected_files_verified_unchanged": 3613,
+  "scheduled_requests": 240,
+  "exact_payload_instances": 130,
+  "controls_verified_by_truth_table": {
+    "control-allow": "ALLOW",
+    "control-deny": "DENY",
+    "control-abstain": "ABSTAIN"
+  },
+  "all_option_variants_semantically_identical": true,
+  "live_requests": 0,
+  "spend": 0,
+  "status": "design_only_paused_pending_provider"
+}

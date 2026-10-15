@@ -1,0 +1,19 @@
+{
+  "utc": "2026-10-15T22:04:05.255115+00:00",
+  "protected_files_unchanged": 8278,
+  "changed_files": [],
+  "new_source_and_design_freezes_verified": true,
+  "wire_schedule_verified": 100,
+  "raw_extraction_verified": 100,
+  "rational_witnesses_independently_checked": 294,
+  "request_ids": 100,
+  "live_calls": 100,
+  "retries": 0,
+  "input_tokens": 37480,
+  "output_tokens": 3640,
+  "usage_based_usd": "0.001574160",
+  "new_conservative_gbp_allowance": "0.003148320",
+  "total_guard_gbp": "0.450448908",
+  "invoice_verified": false,
+  "verdict": "insufficient_near_tie_exposure"
+}

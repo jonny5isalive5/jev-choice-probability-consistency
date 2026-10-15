@@ -1,0 +1,14 @@
+{
+  "authorized_request": "run the 240-call diagnostic under GBP5, retain all results and original runs",
+  "model": "jev-1.14.0",
+  "price_usd_per_million_input": "0.042",
+  "output_price": 0,
+  "pricing_source": "https://docs.typesafe.ai/models",
+  "default_context_max_reserve_tokens": 65536,
+  "max_calls": 240,
+  "no_retries": true,
+  "prior_guard_gbp": "0.295095108",
+  "whole_run_reserve_gbp": "1.321205760",
+  "total_max_guard_gbp": "1.616300868",
+  "prior_budget_source": "evidence/Jev-Live-JL-002-Repeat5/evidence/live-batch/budget.jsonl"
+}

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "mock_only": true,
+  "live_spend": "0",
+  "unanticipated_audit_findings": [],
+  "mock_flags_retained": 1153,
+  "all_288_predictions_accounted": true,
+  "known_always_abstain_score_per_arm": "32/96; contract fixture only, not model evidence"
+}

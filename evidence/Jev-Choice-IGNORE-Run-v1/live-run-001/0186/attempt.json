@@ -1,0 +1,12 @@
+{
+  "attempt": 186,
+  "block": 8,
+  "module": "exact-repeat",
+  "payload": "original",
+  "started_utc": "2026-10-15T21:23:56.055240+00:00",
+  "request_sha256": "6e2a28875e3cedcdcae76e3a86172d6d694f8beefefe7def751d1539fa430064",
+  "semantic_sha256": "47d0ff6d192a8fd0c7542fea0868b516ad8a4437bf9b4e168f4eb4a0e6b3e983",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "reserve_gbp": "0.005505024",
+  "accounted_gbp": "0.369176472"
+}

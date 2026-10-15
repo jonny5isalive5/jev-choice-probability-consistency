@@ -1,0 +1,17 @@
+{
+  "attempt": 368,
+  "pair_id": 184,
+  "block": 27,
+  "module": "complex",
+  "template": "order-2",
+  "arm": "IGNORE",
+  "pair_position": 2,
+  "first_arm": "ABSTAIN",
+  "payload": "ignore-order-2",
+  "started_utc": "2026-10-15T21:35:04.427220+00:00",
+  "request_sha256": "f37cd165c981897581d10c99a29f820c5541882b879a80c9c2f997e0a647cd37",
+  "semantic_sha256": "47d0ff6d192a8fd0c7542fea0868b516ad8a4437bf9b4e168f4eb4a0e6b3e983",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "reserve_gbp": "0.005505024",
+  "accounted_gbp": "0.443081940"
+}

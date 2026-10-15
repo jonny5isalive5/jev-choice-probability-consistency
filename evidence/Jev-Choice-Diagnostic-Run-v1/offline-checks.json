@@ -1,0 +1,15 @@
+{
+  "tests_passed": 7,
+  "tests": [
+    "budget blocks before transport",
+    "mismatch preserved and next call continues",
+    "invalid schema/model/usage rejected",
+    "original failure extracts unchanged",
+    "frozen schedule and six wire orders verified",
+    "unknown usage stops with reserve retained",
+    "maximum ties accepted"
+  ],
+  "credential_available": true,
+  "credential_exposed": false,
+  "utc": "2026-10-15T21:14:12.138616+00:00"
+}

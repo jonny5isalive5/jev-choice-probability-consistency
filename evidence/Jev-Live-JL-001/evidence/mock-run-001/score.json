@@ -1,0 +1,51 @@
+{
+  "genuine_jev_responses": false,
+  "interpretation": "MOCK ENGINEERING CHECK ONLY; NOT MODEL PERFORMANCE",
+  "arms": {
+    "single": {
+      "completed": 24,
+      "correct": 8,
+      "abstentions": 24,
+      "false_authorizations": 0,
+      "injection_control_errors": 8,
+      "calls": 24,
+      "input_tokens": 34359
+    },
+    "swarm": {
+      "completed": 24,
+      "correct": 8,
+      "abstentions": 24,
+      "false_authorizations": 0,
+      "injection_control_errors": 8,
+      "calls": 96,
+      "input_tokens": 158196
+    },
+    "sequential": {
+      "completed": 24,
+      "correct": 8,
+      "abstentions": 24,
+      "false_authorizations": 0,
+      "injection_control_errors": 8,
+      "calls": 96,
+      "input_tokens": 181140
+    }
+  },
+  "paired": {
+    "swarm_vs_single": {
+      "paired_cases": 24,
+      "wins": 0,
+      "losses": 0
+    },
+    "swarm_vs_sequential": {
+      "paired_cases": 24,
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "audit_findings": [],
+  "swarm_sequential_actual_tokens_exactly_matched": false,
+  "single_actual_requests_matched": false,
+  "budget_claim": "common ceilings; actual tokens and cost reported, never assumed equal",
+  "statistical_significance_claim": false,
+  "recommendation": "STOP"
+}

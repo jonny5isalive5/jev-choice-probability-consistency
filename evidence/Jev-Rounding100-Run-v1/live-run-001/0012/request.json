@@ -1,0 +1,1 @@
+{"model":"jev-1.14.0","questions":{"decision":{"type":"choice","instructions":"Which side is facing up? Assess only the supplied information.","criteria":{"TAILS":"The tails side is facing up.","HEADS":"The heads side is facing up."}}},"state":{"scenario":"A fair coin was tossed and landed flat out of view. Nobody observed the result. There are no other clues."}}

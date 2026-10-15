@@ -1,0 +1,12 @@
+{
+  "attempt": 10,
+  "block": 1,
+  "module": "control",
+  "payload": "control-deny",
+  "started_utc": "2026-10-15T21:14:28.142936+00:00",
+  "request_sha256": "015562c1bdc06f2e9baa81addb0bd9155e21a0919ef7189944ff3b275a2cb45a",
+  "semantic_sha256": "015562c1bdc06f2e9baa81addb0bd9155e21a0919ef7189944ff3b275a2cb45a",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "reserve_gbp": "0.005505024",
+  "accounted_gbp": "0.302255940"
+}

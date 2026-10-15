@@ -1,0 +1,1 @@
+{"attempts":221,"automatic_retries":0,"completed_arm_predictions":73,"genuine_jev_responses":true,"hard_ceiling_gbp":"5","listed_cost_usd":"0.023148846","live_mode":true,"requested_model":"jev-1.14.0","reserved_gbp":"1.216610304","returned_models":["jev-1.14.0"],"smoke_passed":true,"stop":"probabilities do not sum to one","validated_calls":220}

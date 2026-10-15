@@ -1,0 +1,11 @@
+{
+  "checked_utc": "2026-10-15T19:40:58.026484+00:00",
+  "credential_available": true,
+  "authenticated_models_access": true,
+  "inference_calls": 0,
+  "http_status": 200,
+  "model_aliases": [
+    "jev-latest",
+    "jev-preview"
+  ]
+}

@@ -1,0 +1,15 @@
+test_authority_and_source_data_never_sent (test_pilot.Tests.test_authority_and_source_data_never_sent) ... ok
+test_budget_refused_before_transport (test_pilot.Tests.test_budget_refused_before_transport) ... ok
+test_case_key_verified_from_actual_input (test_pilot.Tests.test_case_key_verified_from_actual_input) ... ok
+test_current_documented_contract (test_pilot.Tests.test_current_documented_contract) ... ok
+test_duplicate_and_nonfinite_json (test_pilot.Tests.test_duplicate_and_nonfinite_json) ... ok
+test_http_error_preserved_no_retry (test_pilot.Tests.test_http_error_preserved_no_retry) ... ok
+test_model_usage_probability_and_answer_fail_closed (test_pilot.Tests.test_model_usage_probability_and_answer_fail_closed) ... ok
+test_no_redirect_and_secret_redaction (test_pilot.Tests.test_no_redirect_and_secret_redaction) ... ok
+test_reopen_evidence_directory_rejected (test_pilot.Tests.test_reopen_evidence_directory_rejected) ... ok
+test_timeout_keeps_reservation (test_pilot.Tests.test_timeout_keeps_reservation) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.963s
+
+OK

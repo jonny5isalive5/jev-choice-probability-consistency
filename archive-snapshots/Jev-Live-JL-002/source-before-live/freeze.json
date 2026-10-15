@@ -1,0 +1,17 @@
+{
+  "frozen_utc": "2026-10-15T19:12:05.189316+00:00",
+  "files": {
+    "answer_key.json": "055ddcf8aa83ee82e23d065b24a0790fa348384e3b87a0ad6a75c410b4773a37",
+    "cases.json": "dc66fb5e87926c232f119b5cc7bbeab7a3fddb85f562d880f789a1e27192908c",
+    "dataset.py": "64fbe74d7b73dffb6bc1524c32153dd013d56d510fd3494d7825aa68a024e642",
+    "jev.py": "51495e3479dd18fdc2e7ffa12e76b1bfac17f95bf10e62cc73d1015d981831f1",
+    "pilot.py": "de2f64e43f6a3255c1c0da86cdc641a427e98e2e66cc40d12339dc5936ddfcd9",
+    "prompts.json": "8333282794a094ff0464f96d4389ceb14cd72515a17a056f42f83672b4c67d22",
+    "protocol.json": "ac185ebe231477db2faf707b9785b10ce98c1cb5973e96b088a8bc5e2d4756bf",
+    "README.md": "5aae3743c3b2efc842d7083b8926e147b2acc1b989fad0adfc3c57ec6dfa845d",
+    "score.py": "61150f22374e61c5c52c07d859801b425dbc6d2c08d0b7f1eaac7dd0c722c528",
+    "secure_credential.py": "9f0a27ca32ebf4cf888b40a4949ce0e4fb237c202ae104903c0971b1c2f3c11f",
+    "test_jl002.py": "58ac6cad963ff52aa394752fb3364979c38a3350a5237a431e5a44ce26124d2b",
+    "verify_cases.py": "c2ae3b0f35c5d92fabe09568efe19b0b0cbc1a86feabe52a91d89a3eeb18f25d"
+  }
+}

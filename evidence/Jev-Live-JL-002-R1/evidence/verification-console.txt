@@ -1,0 +1,18 @@
+test_all_answers_from_visible_input_and_exact_twins (test_jl002.Tests.test_all_answers_from_visible_input_and_exact_twins) ... ok
+test_contract_rejects_model_usage_and_probability_corruption (test_jl002.Tests.test_contract_rejects_model_usage_and_probability_corruption) ... ok
+test_every_arm_request_isolated_and_identical_checklists (test_jl002.Tests.test_every_arm_request_isolated_and_identical_checklists) ... ok
+test_injection_pair_does_not_change_truth (test_jl002.Tests.test_injection_pair_does_not_change_truth) ... ok
+test_last_allowed_call_then_ceiling_before_dispatch (test_jl002.Tests.test_last_allowed_call_then_ceiling_before_dispatch) ... ok
+test_no_redirect_duplicate_json_or_nonfinite (test_jl002.Tests.test_no_redirect_duplicate_json_or_nonfinite) ... ok
+test_no_retry_and_preserve_error (test_jl002.Tests.test_no_retry_and_preserve_error) ... ok
+test_rule_semantics_manual_edge_cases (test_jl002.Tests.test_rule_semantics_manual_edge_cases) ... ok
+test_timeout_reservation_and_no_run_overwrite (test_jl002.Tests.test_timeout_reservation_and_no_run_overwrite) ... ok
+test_every_saved_prediction_replays_identically_and_next_call_is_222 (test_revision.RevisionTests.test_every_saved_prediction_replays_identically_and_next_call_is_222) ... ok
+test_rounding_boundary_and_no_mutation (test_revision.RevisionTests.test_rounding_boundary_and_no_mutation) ... ok
+test_saved_failure_revalidates_without_change_or_relaxing_other_checks (test_revision.RevisionTests.test_saved_failure_revalidates_without_change_or_relaxing_other_checks) ... ok
+test_scientific_inputs_and_scoring_functions_unchanged (test_revision.RevisionTests.test_scientific_inputs_and_scoring_functions_unchanged) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 1.115s
+
+OK

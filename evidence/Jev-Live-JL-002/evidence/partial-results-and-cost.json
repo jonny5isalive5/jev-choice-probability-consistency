@@ -1,0 +1,87 @@
+{
+  "status": "STOP_CONTRACT_FAILURE_PARTIAL_RESULTS",
+  "completed_common_cases": 24,
+  "paired_common_metrics": {
+    "single": {
+      "completed_common_cases": 24,
+      "correct": 11,
+      "false_authorizations": 0,
+      "by_difficulty": {
+        "easy_control": {
+          "cases": 3,
+          "correct": 0
+        },
+        "harder": {
+          "cases": 21,
+          "correct": 11
+        }
+      }
+    },
+    "swarm": {
+      "completed_common_cases": 24,
+      "correct": 9,
+      "false_authorizations": 0,
+      "by_difficulty": {
+        "easy_control": {
+          "cases": 3,
+          "correct": 0
+        },
+        "harder": {
+          "cases": 21,
+          "correct": 9
+        }
+      }
+    },
+    "sequential": {
+      "completed_common_cases": 24,
+      "correct": 9,
+      "false_authorizations": 0,
+      "by_difficulty": {
+        "easy_control": {
+          "cases": 3,
+          "correct": 0
+        },
+        "harder": {
+          "cases": 21,
+          "correct": 9
+        }
+      }
+    }
+  },
+  "completed_predictions": 73,
+  "total_cases": 96,
+  "wholly_unstarted_cases": 71,
+  "failed_request": {
+    "sequence": 221,
+    "case_id": "JL2-015",
+    "arm": "swarm",
+    "stage_zero_based": 2,
+    "reason": "probabilities do not sum to one",
+    "probabilities": {
+      "ABSTAIN": 0.17,
+      "ALLOW": 0.02,
+      "DENY": 0.8
+    },
+    "probability_sum": "0.99",
+    "reported_input_tokens": 2109,
+    "listed_cost_usd": "0.000088578"
+  },
+  "all_received_responses_including_rejected": 221,
+  "all_raw_hashes_match": true,
+  "input_tokens_including_rejected": 553272,
+  "output_tokens_including_rejected": 9290,
+  "listed_cost_usd_including_rejected": "0.023237424",
+  "listed_cost_by_arm_including_rejected": {
+    "smoke": "0.000016380",
+    "single": "0.002600808",
+    "swarm": "0.010255644",
+    "sequential": "0.010364592"
+  },
+  "reference_gbp_estimate": "0.0176704387300802769530976",
+  "settled_invoice_not_observed": true,
+  "repairs": 0,
+  "retries": 0,
+  "excluded_failure_has_not_been_silently_scored": true,
+  "source_freeze_verified": true,
+  "api_key_found_in_created_files": false
+}

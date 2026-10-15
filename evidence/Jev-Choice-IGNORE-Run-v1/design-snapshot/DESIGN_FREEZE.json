@@ -1,0 +1,20 @@
+{
+  "utc": "2026-10-15T21:21:58.612507+00:00",
+  "files": {
+    "control-answers.json": "e302d4b8d67ceeafb5b96036e67d21c9a8937a6f8dab7b32a58cd689247749fb",
+    "label-mapping.json": "9ba04a122d1f9ee8f6d7cf81355ee79f1aa8875bd3f88edaa965964b1b027430",
+    "payload-manifest.json": "f2186d42124d71153cb5b3e16f304e283458904ef0b7c05ad441ab343f5c1ef7",
+    "payloads/control-abstain.json": "38365f7d605d45eb23d552ab5a223c9a756d86d865d617ac0b4421be239c3484",
+    "payloads/control-allow.json": "a8c90cb032024e49c964e8ad89d42887f546cfeffef4e129741fa92c0ca9c9d3",
+    "payloads/control-deny.json": "aa5c73e3cc4470b6fa45a38b58dd129c0673c5ea346830461baddc70a291fe1b",
+    "payloads/order-1.json": "6e2a28875e3cedcdcae76e3a86172d6d694f8beefefe7def751d1539fa430064",
+    "payloads/order-2.json": "f37cd165c981897581d10c99a29f820c5541882b879a80c9c2f997e0a647cd37",
+    "payloads/order-3.json": "ff3087057432cbc3c23d889630530ef5f848912679fb414037d4d22d5346b81d",
+    "payloads/order-4.json": "47d0ff6d192a8fd0c7542fea0868b516ad8a4437bf9b4e168f4eb4a0e6b3e983",
+    "payloads/order-5.json": "56a15bda00bb3f819ba166eaa368d83da54b2c615ddf5d358a48ff136ff0692e",
+    "payloads/order-6.json": "3577cce0e9be9772dd004b3564ca7d71791a188256ff91dccbae594f5cc0366b",
+    "payloads/original.json": "6e2a28875e3cedcdcae76e3a86172d6d694f8beefefe7def751d1539fa430064",
+    "PROTOCOL.md": "a2265087a1845bf735ab9b908a917c84a91cb514f894f1127c477194da21255c",
+    "schedule.json": "53321fa433f543d544f5fbf34abfb3e6759515fc18218a10a6a1b02d36d4bf77"
+  }
+}

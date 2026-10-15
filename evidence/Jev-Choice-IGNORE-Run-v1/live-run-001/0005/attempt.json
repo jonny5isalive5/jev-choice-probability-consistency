@@ -1,0 +1,12 @@
+{
+  "attempt": 5,
+  "block": 1,
+  "module": "control",
+  "payload": "control-allow",
+  "started_utc": "2026-10-15T21:22:30.722306+00:00",
+  "request_sha256": "a8c90cb032024e49c964e8ad89d42887f546cfeffef4e129741fa92c0ca9c9d3",
+  "semantic_sha256": "7841ff39e9b01ddcd2c19e469aeb03b1237600500a004bc71c8fa29ea8f8ff7f",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "reserve_gbp": "0.005505024",
+  "accounted_gbp": "0.340049892"
+}

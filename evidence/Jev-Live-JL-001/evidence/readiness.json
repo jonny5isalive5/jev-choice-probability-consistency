@@ -1,0 +1,16 @@
+{
+  "status": "STOP_CREDENTIAL_READINESS",
+  "credential_available": false,
+  "checked": [
+    "process environment names",
+    "Windows user environment names",
+    "Windows machine environment names",
+    "Windows Credential Manager TypeSafe/Jev/OpenRouter target-name search"
+  ],
+  "secret_values_logged": false,
+  "inference_requests": 0,
+  "live_spend_gbp": "0",
+  "actual_model_version": null,
+  "vendor_fingerprint": null,
+  "desired_model": "jev-1.14.0"
+}

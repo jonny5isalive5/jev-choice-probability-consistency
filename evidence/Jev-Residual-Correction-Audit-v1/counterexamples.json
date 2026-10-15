@@ -1,0 +1,67 @@
+[
+  {
+    "run": "JL002_original",
+    "sequence": 221,
+    "path": "evidence/Jev-Live-JL-002/evidence/live-run-001/response-0221.json",
+    "sha256": "6063f3a1c1e4e281f90ad6ac98fe967521bd44ca93e33ec8f6be1ea0659c567f",
+    "choice": "DENY",
+    "probabilities": {
+      "ABSTAIN": "0.17",
+      "ALLOW": "0.02",
+      "DENY": "0.8"
+    },
+    "grid_total": "0.99"
+  },
+  {
+    "run": "JL002_R1_new",
+    "sequence": 229,
+    "path": "evidence/Jev-Live-JL-002-R1/evidence/continued-run-001/response-0229.json",
+    "sha256": "ff10da1d7307adf269df2cea1296fbe13ce7538e802178d1509e51c4209a2149",
+    "choice": "DENY",
+    "probabilities": {
+      "ABSTAIN": "0.28",
+      "ALLOW": "0.04",
+      "DENY": "0.67"
+    },
+    "grid_total": "0.99"
+  },
+  {
+    "run": "JL002_R1_new",
+    "sequence": 294,
+    "path": "evidence/Jev-Live-JL-002-R1/evidence/continued-run-001/response-0294.json",
+    "sha256": "a638afa92052153a108b49a2051126a91937d5234dd330e7bb69bea690773d1a",
+    "choice": "DENY",
+    "probabilities": {
+      "ABSTAIN": "0.28",
+      "ALLOW": "0.05",
+      "DENY": "0.66"
+    },
+    "grid_total": "0.99"
+  },
+  {
+    "run": "Repeat5_partial",
+    "sequence": 204,
+    "path": "evidence/Jev-Live-JL-002-Repeat5/evidence/live-batch/repeat-01/response-0204.json",
+    "sha256": "66656cd40552473c7e351c0d8633d780e36329272c7e22e6a73849eb8c823996",
+    "choice": "ABSTAIN",
+    "probabilities": {
+      "ABSTAIN": "0.54",
+      "ALLOW": "0.05",
+      "DENY": "0.4"
+    },
+    "grid_total": "0.99"
+  },
+  {
+    "run": "Repeat5_partial",
+    "sequence": 293,
+    "path": "evidence/Jev-Live-JL-002-Repeat5/evidence/live-batch/repeat-01/response-0293.json",
+    "sha256": "2a0f29af973903633226643132273a907125d7565d0fdfadc8a7ec1cb1c091e5",
+    "choice": "DENY",
+    "probabilities": {
+      "ABSTAIN": "0.23",
+      "ALLOW": "0.08",
+      "DENY": "0.68"
+    },
+    "grid_total": "0.99"
+  }
+]

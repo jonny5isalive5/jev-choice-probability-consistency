@@ -1,0 +1,72 @@
+{
+  "original": {
+    "path": "payloads/original.json",
+    "sha256": "22f8df52d803fdfd13b0aafab16147664984443109813bbac5230d958f6b000d"
+  },
+  "order-1": {
+    "path": "payloads/order-1.json",
+    "criteria_order": [
+      "ABSTAIN",
+      "ALLOW",
+      "DENY"
+    ],
+    "sha256": "22f8df52d803fdfd13b0aafab16147664984443109813bbac5230d958f6b000d"
+  },
+  "order-2": {
+    "path": "payloads/order-2.json",
+    "criteria_order": [
+      "ABSTAIN",
+      "DENY",
+      "ALLOW"
+    ],
+    "sha256": "4300a2c086e7d27f0e5319dfe15853c066cacf655fe4005b5b3c4382a6368f61"
+  },
+  "order-3": {
+    "path": "payloads/order-3.json",
+    "criteria_order": [
+      "ALLOW",
+      "ABSTAIN",
+      "DENY"
+    ],
+    "sha256": "9f3cf33c46d7c2335d380278b6e2dcf6321fa08c281497556745488fe0cadf81"
+  },
+  "order-4": {
+    "path": "payloads/order-4.json",
+    "criteria_order": [
+      "ALLOW",
+      "DENY",
+      "ABSTAIN"
+    ],
+    "sha256": "6ed32c991c8d00b03a13c8ef946295efc76975e6cac811138333d3571d79fda1"
+  },
+  "order-5": {
+    "path": "payloads/order-5.json",
+    "criteria_order": [
+      "DENY",
+      "ABSTAIN",
+      "ALLOW"
+    ],
+    "sha256": "9718a8a9f846a50953cd70c161482043ce240b936a005b6166887f4994b3e0fd"
+  },
+  "order-6": {
+    "path": "payloads/order-6.json",
+    "criteria_order": [
+      "DENY",
+      "ALLOW",
+      "ABSTAIN"
+    ],
+    "sha256": "30949c60b7872baf33ac9b9d138c1f2059332b8e1f9240074d3bc5de45726820"
+  },
+  "control-allow": {
+    "path": "payloads/control-allow.json",
+    "sha256": "9131220fdc6f676afadfc28be81ff89b5e575e565af7d6fee60c6dbfe2e7c68f"
+  },
+  "control-deny": {
+    "path": "payloads/control-deny.json",
+    "sha256": "015562c1bdc06f2e9baa81addb0bd9155e21a0919ef7189944ff3b275a2cb45a"
+  },
+  "control-abstain": {
+    "path": "payloads/control-abstain.json",
+    "sha256": "e17aa544518384d6bd663f1c668b01da4eb20273b9a74b633d54eda517ff8b66"
+  }
+}

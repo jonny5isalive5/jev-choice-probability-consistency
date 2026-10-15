@@ -1,0 +1,17 @@
+{
+  "attempt": 321,
+  "pair_id": 161,
+  "block": 23,
+  "module": "complex",
+  "template": "order-4",
+  "arm": "ABSTAIN",
+  "pair_position": 1,
+  "first_arm": "ABSTAIN",
+  "payload": "abstain-order-4",
+  "started_utc": "2026-10-15T21:34:41.251731+00:00",
+  "request_sha256": "6ed32c991c8d00b03a13c8ef946295efc76975e6cac811138333d3571d79fda1",
+  "semantic_sha256": "22f8df52d803fdfd13b0aafab16147664984443109813bbac5230d958f6b000d",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "reserve_gbp": "0.005505024",
+  "accounted_gbp": "0.434901768"
+}

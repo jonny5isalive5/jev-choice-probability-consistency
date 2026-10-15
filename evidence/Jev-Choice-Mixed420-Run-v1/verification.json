@@ -1,0 +1,23 @@
+{
+  "utc": "2026-10-15T21:37:08.200778+00:00",
+  "protected_files_unchanged": 6101,
+  "changed_files": [],
+  "source_and_design_freezes_unchanged": true,
+  "wire_schedule_verified": 420,
+  "label_only_pairs_verified": 210,
+  "independent_raw_extraction_verified": 420,
+  "http200": 420,
+  "requests_with_ids": 420,
+  "retries": 0,
+  "model_versions": [
+    "jev-1.14.0"
+  ],
+  "input_tokens": 892830,
+  "output_tokens": 17028,
+  "reported_usage_cost_usd": "0.037498860",
+  "new_run_conservative_gbp_allowance": "0.074997720",
+  "total_guard_gbp": "0.447300588",
+  "invoice_verified": false,
+  "confidence_rounding_interval_disagreements": 0,
+  "non_unit_mass_exact_decimal": 10
+}

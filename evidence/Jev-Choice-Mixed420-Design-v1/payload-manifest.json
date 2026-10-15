@@ -1,0 +1,218 @@
+{
+  "abstain-order-1": {
+    "path": "payloads/abstain-order-1.json",
+    "sha256": "22f8df52d803fdfd13b0aafab16147664984443109813bbac5230d958f6b000d",
+    "arm": "ABSTAIN",
+    "template": "order-1",
+    "criteria_order": [
+      "ABSTAIN",
+      "ALLOW",
+      "DENY"
+    ],
+    "expected_control": null
+  },
+  "abstain-order-2": {
+    "path": "payloads/abstain-order-2.json",
+    "sha256": "4300a2c086e7d27f0e5319dfe15853c066cacf655fe4005b5b3c4382a6368f61",
+    "arm": "ABSTAIN",
+    "template": "order-2",
+    "criteria_order": [
+      "ABSTAIN",
+      "DENY",
+      "ALLOW"
+    ],
+    "expected_control": null
+  },
+  "abstain-order-3": {
+    "path": "payloads/abstain-order-3.json",
+    "sha256": "9f3cf33c46d7c2335d380278b6e2dcf6321fa08c281497556745488fe0cadf81",
+    "arm": "ABSTAIN",
+    "template": "order-3",
+    "criteria_order": [
+      "ALLOW",
+      "ABSTAIN",
+      "DENY"
+    ],
+    "expected_control": null
+  },
+  "abstain-order-4": {
+    "path": "payloads/abstain-order-4.json",
+    "sha256": "6ed32c991c8d00b03a13c8ef946295efc76975e6cac811138333d3571d79fda1",
+    "arm": "ABSTAIN",
+    "template": "order-4",
+    "criteria_order": [
+      "ALLOW",
+      "DENY",
+      "ABSTAIN"
+    ],
+    "expected_control": null
+  },
+  "abstain-order-5": {
+    "path": "payloads/abstain-order-5.json",
+    "sha256": "9718a8a9f846a50953cd70c161482043ce240b936a005b6166887f4994b3e0fd",
+    "arm": "ABSTAIN",
+    "template": "order-5",
+    "criteria_order": [
+      "DENY",
+      "ABSTAIN",
+      "ALLOW"
+    ],
+    "expected_control": null
+  },
+  "abstain-order-6": {
+    "path": "payloads/abstain-order-6.json",
+    "sha256": "30949c60b7872baf33ac9b9d138c1f2059332b8e1f9240074d3bc5de45726820",
+    "arm": "ABSTAIN",
+    "template": "order-6",
+    "criteria_order": [
+      "DENY",
+      "ALLOW",
+      "ABSTAIN"
+    ],
+    "expected_control": null
+  },
+  "abstain-control-allow": {
+    "path": "payloads/abstain-control-allow.json",
+    "sha256": "9131220fdc6f676afadfc28be81ff89b5e575e565af7d6fee60c6dbfe2e7c68f",
+    "arm": "ABSTAIN",
+    "template": "control-allow",
+    "criteria_order": [
+      "ABSTAIN",
+      "ALLOW",
+      "DENY"
+    ],
+    "expected_control": "ALLOW"
+  },
+  "abstain-control-deny": {
+    "path": "payloads/abstain-control-deny.json",
+    "sha256": "015562c1bdc06f2e9baa81addb0bd9155e21a0919ef7189944ff3b275a2cb45a",
+    "arm": "ABSTAIN",
+    "template": "control-deny",
+    "criteria_order": [
+      "ABSTAIN",
+      "ALLOW",
+      "DENY"
+    ],
+    "expected_control": "DENY"
+  },
+  "abstain-control-abstain": {
+    "path": "payloads/abstain-control-abstain.json",
+    "sha256": "e17aa544518384d6bd663f1c668b01da4eb20273b9a74b633d54eda517ff8b66",
+    "arm": "ABSTAIN",
+    "template": "control-abstain",
+    "criteria_order": [
+      "ABSTAIN",
+      "ALLOW",
+      "DENY"
+    ],
+    "expected_control": "ABSTAIN"
+  },
+  "ignore-order-1": {
+    "path": "payloads/ignore-order-1.json",
+    "sha256": "6e2a28875e3cedcdcae76e3a86172d6d694f8beefefe7def751d1539fa430064",
+    "arm": "IGNORE",
+    "template": "order-1",
+    "criteria_order": [
+      "IGNORE",
+      "ALLOW",
+      "DENY"
+    ],
+    "expected_control": null
+  },
+  "ignore-order-2": {
+    "path": "payloads/ignore-order-2.json",
+    "sha256": "f37cd165c981897581d10c99a29f820c5541882b879a80c9c2f997e0a647cd37",
+    "arm": "IGNORE",
+    "template": "order-2",
+    "criteria_order": [
+      "IGNORE",
+      "DENY",
+      "ALLOW"
+    ],
+    "expected_control": null
+  },
+  "ignore-order-3": {
+    "path": "payloads/ignore-order-3.json",
+    "sha256": "ff3087057432cbc3c23d889630530ef5f848912679fb414037d4d22d5346b81d",
+    "arm": "IGNORE",
+    "template": "order-3",
+    "criteria_order": [
+      "ALLOW",
+      "IGNORE",
+      "DENY"
+    ],
+    "expected_control": null
+  },
+  "ignore-order-4": {
+    "path": "payloads/ignore-order-4.json",
+    "sha256": "47d0ff6d192a8fd0c7542fea0868b516ad8a4437bf9b4e168f4eb4a0e6b3e983",
+    "arm": "IGNORE",
+    "template": "order-4",
+    "criteria_order": [
+      "ALLOW",
+      "DENY",
+      "IGNORE"
+    ],
+    "expected_control": null
+  },
+  "ignore-order-5": {
+    "path": "payloads/ignore-order-5.json",
+    "sha256": "56a15bda00bb3f819ba166eaa368d83da54b2c615ddf5d358a48ff136ff0692e",
+    "arm": "IGNORE",
+    "template": "order-5",
+    "criteria_order": [
+      "DENY",
+      "IGNORE",
+      "ALLOW"
+    ],
+    "expected_control": null
+  },
+  "ignore-order-6": {
+    "path": "payloads/ignore-order-6.json",
+    "sha256": "3577cce0e9be9772dd004b3564ca7d71791a188256ff91dccbae594f5cc0366b",
+    "arm": "IGNORE",
+    "template": "order-6",
+    "criteria_order": [
+      "DENY",
+      "ALLOW",
+      "IGNORE"
+    ],
+    "expected_control": null
+  },
+  "ignore-control-allow": {
+    "path": "payloads/ignore-control-allow.json",
+    "sha256": "a8c90cb032024e49c964e8ad89d42887f546cfeffef4e129741fa92c0ca9c9d3",
+    "arm": "IGNORE",
+    "template": "control-allow",
+    "criteria_order": [
+      "IGNORE",
+      "ALLOW",
+      "DENY"
+    ],
+    "expected_control": "ALLOW"
+  },
+  "ignore-control-deny": {
+    "path": "payloads/ignore-control-deny.json",
+    "sha256": "aa5c73e3cc4470b6fa45a38b58dd129c0673c5ea346830461baddc70a291fe1b",
+    "arm": "IGNORE",
+    "template": "control-deny",
+    "criteria_order": [
+      "IGNORE",
+      "ALLOW",
+      "DENY"
+    ],
+    "expected_control": "DENY"
+  },
+  "ignore-control-abstain": {
+    "path": "payloads/ignore-control-abstain.json",
+    "sha256": "38365f7d605d45eb23d552ab5a223c9a756d86d865d617ac0b4421be239c3484",
+    "arm": "IGNORE",
+    "template": "control-abstain",
+    "criteria_order": [
+      "IGNORE",
+      "ALLOW",
+      "DENY"
+    ],
+    "expected_control": "IGNORE"
+  }
+}

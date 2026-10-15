@@ -1,0 +1,15 @@
+{
+  "credential_available": true,
+  "inference_calls": 0,
+  "price_source": "https://docs.typesafe.ai/models",
+  "price_usd_per_million": "0.042",
+  "max_calls": 865,
+  "max_reserved_gbp": "4.761845760",
+  "model": "jev-1.14.0",
+  "authenticated_models_access": true,
+  "http_status": 200,
+  "models": [
+    "jev-latest",
+    "jev-preview"
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "unique_live_calls": 2538,
+  "deduplicated_reused_R1_prefix": 221,
+  "runs": {
+    "JL001": {
+      "calls": 217,
+      "choice_max_mismatches": 0,
+      "numeric_tail_responses": 1,
+      "nonselected_tails": 0,
+      "nonunit_grid_totals": 0,
+      "input_tokens": 157363,
+      "output_tokens": 9103,
+      "listed_usd": "0.006609246"
+    },
+    "JL002_original": {
+      "calls": 221,
+      "choice_max_mismatches": 0,
+      "numeric_tail_responses": 5,
+      "nonselected_tails": 0,
+      "nonunit_grid_totals": 1,
+      "input_tokens": 553272,
+      "output_tokens": 9290,
+      "listed_usd": "0.023237424"
+    },
+    "JL002_R1_new": {
+      "calls": 644,
+      "choice_max_mismatches": 0,
+      "numeric_tail_responses": 10,
+      "nonselected_tails": 0,
+      "nonunit_grid_totals": 2,
+      "input_tokens": 1608273,
+      "output_tokens": 27026,
+      "listed_usd": "0.067547466"
+    },
+    "Repeat5_partial": {
+      "calls": 456,
+      "choice_max_mismatches": 1,
+      "numeric_tail_responses": 6,
+      "nonselected_tails": 0,
+      "nonunit_grid_totals": 2,
+      "input_tokens": 1131002,
+      "output_tokens": 19146,
+      "listed_usd": "0.047502084"
+    },
+    "ABSTAIN240": {
+      "calls": 240,
+      "choice_max_mismatches": 1,
+      "numeric_tail_responses": 6,
+      "nonselected_tails": 0,
+      "nonunit_grid_totals": 0,
+      "input_tokens": 460020,
+      "output_tokens": 9998,
+      "listed_usd": "0.019320840"
+    },
+    "IGNORE240": {
+      "calls": 240,
+      "choice_max_mismatches": 0,
+      "numeric_tail_responses": 6,
+      "nonselected_tails": 0,
+      "nonunit_grid_totals": 0,
+      "input_tokens": 459120,
+      "output_tokens": 9386,
+      "listed_usd": "0.019283040"
+    },
+    "Mixed420": {
+      "calls": 420,
+      "choice_max_mismatches": 2,
+      "numeric_tail_responses": 10,
+      "nonselected_tails": 0,
+      "nonunit_grid_totals": 0,
+      "input_tokens": 892830,
+      "output_tokens": 17028,
+      "listed_usd": "0.037498860"
+    },
+    "Rounding100": {
+      "calls": 100,
+      "choice_max_mismatches": 0,
+      "numeric_tail_responses": 3,
+      "nonselected_tails": 0,
+      "nonunit_grid_totals": 0,
+      "input_tokens": 37480,
+      "output_tokens": 3640,
+      "listed_usd": "0.001574160"
+    }
+  },
+  "scores_recomputed_from_predictions": {
+    "JL001": {
+      "single": {
+        "completed": 24,
+        "correct": 18,
+        "false_authorizations": 3
+      },
+      "swarm": {
+        "completed": 24,
+        "correct": 24,
+        "false_authorizations": 0
+      },
+      "sequential": {
+        "completed": 24,
+        "correct": 24,
+        "false_authorizations": 0
+      }
+    },
+    "JL002_R1": {
+      "single": {
+        "completed": 96,
+        "correct": 48,
+        "false_authorizations": 2,
+        "clean_completed": 64,
+        "clean_correct": 33
+      },
+      "swarm": {
+        "completed": 96,
+        "correct": 45,
+        "false_authorizations": 3,
+        "clean_completed": 64,
+        "clean_correct": 30
+      },
+      "sequential": {
+        "completed": 96,
+        "correct": 43,
+        "false_authorizations": 2,
+        "clean_completed": 64,
+        "clean_correct": 29
+      }
+    },
+    "Repeat5_partial": {
+      "single": {
+        "completed": 50,
+        "correct": 22,
+        "false_authorizations": 2,
+        "clean_completed": 35,
+        "clean_correct": 15
+      },
+      "swarm": {
+        "completed": 51,
+        "correct": 22,
+        "false_authorizations": 2,
+        "clean_completed": 36,
+        "clean_correct": 16
+      },
+      "sequential": {
+        "completed": 50,
+        "correct": 20,
+        "false_authorizations": 3,
+        "clean_completed": 35,
+        "clean_correct": 15
+      }
+    }
+  },
+  "rounding_exposure": {
+    "binary": {
+      "calls": 40,
+      "near_ties": 0
+    },
+    "ternary": {
+      "calls": 60,
+      "near_ties": 13
+    }
+  },
+  "total_input_tokens": 5299360,
+  "total_output_tokens": 104617,
+  "total_usage_based_usd": "0.222573120",
+  "invoice_verified": false
+}

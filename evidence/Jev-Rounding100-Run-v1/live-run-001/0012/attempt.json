@@ -1,0 +1,12 @@
+{
+  "attempt": 12,
+  "block": 2,
+  "arm": "binary",
+  "payload": "binary-2",
+  "started_utc": "2026-10-15T22:01:53.863510+00:00",
+  "request_sha256": "594fd5decfaae172dcbbfe5eb80a16b5c66c20e19aa838af8ea2f4c59b1a1ae8",
+  "semantic_sha256": "898a21632e070cf7829d9176367e5d8948627c9995802b39ee0cc549b0f3c8ec",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "reserve_gbp": "0.005505024",
+  "accounted_gbp": "0.453153036"
+}

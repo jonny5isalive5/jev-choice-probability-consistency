@@ -1,0 +1,42 @@
+Smoke passed. Starting frozen 96-case evaluation.
+Completed case 1/96
+Completed case 2/96
+Completed case 3/96
+Completed case 4/96
+Completed case 5/96
+Completed case 6/96
+Completed case 7/96
+Completed case 8/96
+Completed case 9/96
+Completed case 10/96
+Completed case 11/96
+Completed case 12/96
+Completed case 13/96
+Completed case 14/96
+Completed case 15/96
+Completed case 16/96
+Completed case 17/96
+Completed case 18/96
+Completed case 19/96
+Completed case 20/96
+Completed case 21/96
+Completed case 22/96
+Completed case 23/96
+Completed case 24/96
+{
+  "live_mode": true,
+  "genuine_jev_responses": true,
+  "requested_model": "jev-1.14.0",
+  "returned_models": [
+    "jev-1.14.0"
+  ],
+  "attempts": 221,
+  "validated_calls": 220,
+  "completed_arm_predictions": 73,
+  "smoke_passed": true,
+  "stop": "probabilities do not sum to one",
+  "listed_cost_usd": "0.023148846",
+  "reserved_gbp": "1.216610304",
+  "hard_ceiling_gbp": "5",
+  "automatic_retries": 0
+}

@@ -1,0 +1,8 @@
+{
+  "package": "evidence-pack.zip",
+  "sha256": "0ef4c85150ddde62ebc58de7f0cfd648cc3df0e6a50b88cb9837bd6950351a47",
+  "manifest_sha256": "5e84a1c2fbaa81a0a97f5cf80743147134177b3262e087135824c6431d18dfcf",
+  "file_count": 883,
+  "bytes": 675261,
+  "status": "complete; no favorable swarm signal; STOP"
+}

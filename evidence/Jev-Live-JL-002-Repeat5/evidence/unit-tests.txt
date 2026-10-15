@@ -1,0 +1,13 @@
+test_call_limit_historical_carry_and_exclusive_journal (test_repeat.Tests.test_call_limit_historical_carry_and_exclusive_journal) ... ok
+test_exact_865_request_replay_without_network (test_repeat.Tests.test_exact_865_request_replay_without_network) ... ok
+test_identical_adapter_inputs_arm_execution_and_scorer (test_repeat.Tests.test_identical_adapter_inputs_arm_execution_and_scorer) ... ok
+test_invalid_response_raw_is_retained_and_budget_not_released (test_repeat.Tests.test_invalid_response_raw_is_retained_and_budget_not_released) ... ok
+test_rounded_probabilities_preserved_and_outside_envelope_rejected (test_repeat.Tests.test_rounded_probabilities_preserved_and_outside_envelope_rejected) ... ok
+test_settlement_and_maximum_context_boundary (test_repeat.Tests.test_settlement_and_maximum_context_boundary) ... ok
+test_shared_budget_across_distinct_clients_and_ceiling_before_dispatch (test_repeat.Tests.test_shared_budget_across_distinct_clients_and_ceiling_before_dispatch) ... ok
+test_uncertain_call_halts_and_retains_full_reservation (test_repeat.Tests.test_uncertain_call_halts_and_retains_full_reservation) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 90.362s
+
+OK

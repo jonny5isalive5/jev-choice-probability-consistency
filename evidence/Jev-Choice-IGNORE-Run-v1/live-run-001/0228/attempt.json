@@ -1,0 +1,12 @@
+{
+  "attempt": 228,
+  "block": 10,
+  "module": "option-order",
+  "payload": "order-5",
+  "started_utc": "2026-10-15T21:24:14.580734+00:00",
+  "request_sha256": "56a15bda00bb3f819ba166eaa368d83da54b2c615ddf5d358a48ff136ff0692e",
+  "semantic_sha256": "47d0ff6d192a8fd0c7542fea0868b516ad8a4437bf9b4e168f4eb4a0e6b3e983",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "reserve_gbp": "0.005505024",
+  "accounted_gbp": "0.375842880"
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "Discord-message.txt": "bbd55299508fea5c731ed22dda19c3323bf0c1a08bf91361bdb45be98cd76c63",
+    "metadata.json": "189675d7f96d9d524d89fd12d8f9b3644a5d38b602391c1bef48db24512a88c5",
+    "prior-response-same-request.json": "c543e1d5d9512c86592d168799417f895a7db822eca377700751f43dffc1afe5",
+    "README.txt": "7b2540db0b42ae97fd96fd2a2b750164fbbf1e91c288cd93d94da7b904539407",
+    "request.json": "22f8df52d803fdfd13b0aafab16147664984443109813bbac5230d958f6b000d",
+    "response.json": "2533dd81a40a8a01e9e224cb498737e587cc79b536323bbac133d1e8006211fd"
+  },
+  "new_inference_calls": 0,
+  "posted": false
+}

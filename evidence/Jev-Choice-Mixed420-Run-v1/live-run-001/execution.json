@@ -1,0 +1,12 @@
+{
+  "started": true,
+  "attempts": 420,
+  "usable": 420,
+  "planned": 420,
+  "complete": true,
+  "stop_reason": null,
+  "validated_usage_cost_usd": "0.037498860",
+  "guard_accounted_gbp_including_prior": "0.447300588",
+  "prior_guard_gbp": "0.372302868",
+  "utc": "2026-10-15T21:35:29.509952+00:00"
+}

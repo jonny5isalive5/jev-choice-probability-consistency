@@ -1,0 +1,1 @@
+{"model":"jev-1.14.0","answers":{"decision":{"type":"choice","choice":"RED","confidence":0.07,"probabilities":{"BLUE":0.28,"RED":0.38,"GREEN":0.34}}},"usage":{"input_tokens":388,"output_tokens":38}}

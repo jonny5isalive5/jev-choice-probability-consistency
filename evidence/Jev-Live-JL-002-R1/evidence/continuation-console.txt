@@ -1,0 +1,91 @@
+Completed case 25/96; new API calls 5
+Completed case 26/96; new API calls 14
+Completed case 27/96; new API calls 23
+Completed case 28/96; new API calls 32
+Completed case 29/96; new API calls 41
+Completed case 30/96; new API calls 50
+Completed case 31/96; new API calls 59
+Completed case 32/96; new API calls 68
+Completed case 33/96; new API calls 77
+Completed case 34/96; new API calls 86
+Completed case 35/96; new API calls 95
+Completed case 36/96; new API calls 104
+Completed case 37/96; new API calls 113
+Completed case 38/96; new API calls 122
+Completed case 39/96; new API calls 131
+Completed case 40/96; new API calls 140
+Completed case 41/96; new API calls 149
+Completed case 42/96; new API calls 158
+Completed case 43/96; new API calls 167
+Completed case 44/96; new API calls 176
+Completed case 45/96; new API calls 185
+Completed case 46/96; new API calls 194
+Completed case 47/96; new API calls 203
+Completed case 48/96; new API calls 212
+Completed case 49/96; new API calls 221
+Completed case 50/96; new API calls 230
+Completed case 51/96; new API calls 239
+Completed case 52/96; new API calls 248
+Completed case 53/96; new API calls 257
+Completed case 54/96; new API calls 266
+Completed case 55/96; new API calls 275
+Completed case 56/96; new API calls 284
+Completed case 57/96; new API calls 293
+Completed case 58/96; new API calls 302
+Completed case 59/96; new API calls 311
+Completed case 60/96; new API calls 320
+Completed case 61/96; new API calls 329
+Completed case 62/96; new API calls 338
+Completed case 63/96; new API calls 347
+Completed case 64/96; new API calls 356
+Completed case 65/96; new API calls 365
+Completed case 66/96; new API calls 374
+Completed case 67/96; new API calls 383
+Completed case 68/96; new API calls 392
+Completed case 69/96; new API calls 401
+Completed case 70/96; new API calls 410
+Completed case 71/96; new API calls 419
+Completed case 72/96; new API calls 428
+Completed case 73/96; new API calls 437
+Completed case 74/96; new API calls 446
+Completed case 75/96; new API calls 455
+Completed case 76/96; new API calls 464
+Completed case 77/96; new API calls 473
+Completed case 78/96; new API calls 482
+Completed case 79/96; new API calls 491
+Completed case 80/96; new API calls 500
+Completed case 81/96; new API calls 509
+Completed case 82/96; new API calls 518
+Completed case 83/96; new API calls 527
+Completed case 84/96; new API calls 536
+Completed case 85/96; new API calls 545
+Completed case 86/96; new API calls 554
+Completed case 87/96; new API calls 563
+Completed case 88/96; new API calls 572
+Completed case 89/96; new API calls 581
+Completed case 90/96; new API calls 590
+Completed case 91/96; new API calls 599
+Completed case 92/96; new API calls 608
+Completed case 93/96; new API calls 617
+Completed case 94/96; new API calls 626
+Completed case 95/96; new API calls 635
+Completed case 96/96; new API calls 644
+{
+  "live_mode": true,
+  "genuine_jev_responses": true,
+  "continuation_revision": "JL-002-R1",
+  "parent_attempts": 221,
+  "new_attempts": 644,
+  "attempts": 865,
+  "validated_calls": 865,
+  "completed_arm_predictions": 288,
+  "stop": null,
+  "historical_failure_preserved": true,
+  "saved_response_revalidated": 221,
+  "parent_listed_cost_usd_including_rejected": "0.023237424",
+  "new_listed_cost_usd": "0.067547466",
+  "listed_cost_usd": "0.090784890",
+  "reserved_gbp": "4.761845760",
+  "hard_ceiling_gbp": "5",
+  "automatic_retries": 0
+}

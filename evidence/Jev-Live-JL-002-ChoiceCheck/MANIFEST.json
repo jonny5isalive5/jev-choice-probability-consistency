@@ -1,0 +1,12 @@
+{
+  "status": "No justified rounding fix; five-repeat campaign remains incomplete",
+  "files": {
+    "diagnostic-source.zip": "62672a7769d8234338d77d11f7aa3b4475863f9a8d7860f95e382c19f82774ae",
+    "RESULTS.md": "ab6fef7a171e91b8a2378c0972934a3182fa2c614b370ecbb5f41c41de002911",
+    "evidence\\diagnosis.json": "14a0e6d93207b7b3dd8b49545e84c007d4e8cbbd56d1f0ddf1cf1be5ae04fdc2",
+    "evidence\\original-response-0456.json": "2533dd81a40a8a01e9e224cb498737e587cc79b536323bbac133d1e8006211fd",
+    "evidence\\protected-after.json": "bbc712fd2c6f47c130565b9bf35b792963cda19ffd86d1d28d58532378f8c5e2",
+    "evidence\\protected-before.json": "fe3173a6688c237aa5fdf6a5b0624a03d440e53eb8760e211b4fe9feecbb02cd",
+    "evidence\\tests.txt": "c5b468467851fa45d95b57e9c4409bb57c83195c5cf43262c83287eef34d7daf"
+  }
+}

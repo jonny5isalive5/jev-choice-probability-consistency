@@ -1,0 +1,5 @@
+{
+  "control-allow": "ALLOW",
+  "control-deny": "DENY",
+  "control-abstain": "ABSTAIN"
+}

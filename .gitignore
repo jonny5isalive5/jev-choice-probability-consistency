@@ -1,0 +1,12 @@
+# Local secrets and generated files must never be added to this research record.
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+private/
+work/
+*.zip

@@ -1,0 +1,26 @@
+{
+  "utc": "2026-10-15T21:30:52.086564+00:00",
+  "files": {
+    "payload-manifest.json": "5549128afef2771f472a43fa8c4b64adfe1c283397b3182800a6b4e126cff52b",
+    "payloads/abstain-control-abstain.json": "e17aa544518384d6bd663f1c668b01da4eb20273b9a74b633d54eda517ff8b66",
+    "payloads/abstain-control-allow.json": "9131220fdc6f676afadfc28be81ff89b5e575e565af7d6fee60c6dbfe2e7c68f",
+    "payloads/abstain-control-deny.json": "015562c1bdc06f2e9baa81addb0bd9155e21a0919ef7189944ff3b275a2cb45a",
+    "payloads/abstain-order-1.json": "22f8df52d803fdfd13b0aafab16147664984443109813bbac5230d958f6b000d",
+    "payloads/abstain-order-2.json": "4300a2c086e7d27f0e5319dfe15853c066cacf655fe4005b5b3c4382a6368f61",
+    "payloads/abstain-order-3.json": "9f3cf33c46d7c2335d380278b6e2dcf6321fa08c281497556745488fe0cadf81",
+    "payloads/abstain-order-4.json": "6ed32c991c8d00b03a13c8ef946295efc76975e6cac811138333d3571d79fda1",
+    "payloads/abstain-order-5.json": "9718a8a9f846a50953cd70c161482043ce240b936a005b6166887f4994b3e0fd",
+    "payloads/abstain-order-6.json": "30949c60b7872baf33ac9b9d138c1f2059332b8e1f9240074d3bc5de45726820",
+    "payloads/ignore-control-abstain.json": "38365f7d605d45eb23d552ab5a223c9a756d86d865d617ac0b4421be239c3484",
+    "payloads/ignore-control-allow.json": "a8c90cb032024e49c964e8ad89d42887f546cfeffef4e129741fa92c0ca9c9d3",
+    "payloads/ignore-control-deny.json": "aa5c73e3cc4470b6fa45a38b58dd129c0673c5ea346830461baddc70a291fe1b",
+    "payloads/ignore-order-1.json": "6e2a28875e3cedcdcae76e3a86172d6d694f8beefefe7def751d1539fa430064",
+    "payloads/ignore-order-2.json": "f37cd165c981897581d10c99a29f820c5541882b879a80c9c2f997e0a647cd37",
+    "payloads/ignore-order-3.json": "ff3087057432cbc3c23d889630530ef5f848912679fb414037d4d22d5346b81d",
+    "payloads/ignore-order-4.json": "47d0ff6d192a8fd0c7542fea0868b516ad8a4437bf9b4e168f4eb4a0e6b3e983",
+    "payloads/ignore-order-5.json": "56a15bda00bb3f819ba166eaa368d83da54b2c615ddf5d358a48ff136ff0692e",
+    "payloads/ignore-order-6.json": "3577cce0e9be9772dd004b3564ca7d71791a188256ff91dccbae594f5cc0366b",
+    "PROTOCOL.md": "b2092c2dd7c4e39c4fec0b6e6bab7042f7ad1481dcf9219c67f03635c65971d0",
+    "schedule.json": "958ae8d7d9dec7a751b985e72661c600f259d4c77da471c0df4f0d26dfa1d78a"
+  }
+}

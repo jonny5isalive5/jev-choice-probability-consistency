@@ -1,0 +1,80 @@
+{
+  "binary-1": {
+    "path": "payloads/binary-1.json",
+    "sha256": "325d38398345f65a0ad17b715af3120230a8f4581ace7ac042f515355b99b54c",
+    "arm": "binary",
+    "criteria_order": [
+      "HEADS",
+      "TAILS"
+    ]
+  },
+  "binary-2": {
+    "path": "payloads/binary-2.json",
+    "sha256": "594fd5decfaae172dcbbfe5eb80a16b5c66c20e19aa838af8ea2f4c59b1a1ae8",
+    "arm": "binary",
+    "criteria_order": [
+      "TAILS",
+      "HEADS"
+    ]
+  },
+  "ternary-1": {
+    "path": "payloads/ternary-1.json",
+    "sha256": "3a2159bc230d4544059146441bd8b52056cabceb5fb04f6225504471521556e0",
+    "arm": "ternary",
+    "criteria_order": [
+      "RED",
+      "GREEN",
+      "BLUE"
+    ]
+  },
+  "ternary-2": {
+    "path": "payloads/ternary-2.json",
+    "sha256": "50d69488550de3c19e44a3382c2f1365b91eae9699e290d2121e74cf7b8cab61",
+    "arm": "ternary",
+    "criteria_order": [
+      "RED",
+      "BLUE",
+      "GREEN"
+    ]
+  },
+  "ternary-3": {
+    "path": "payloads/ternary-3.json",
+    "sha256": "e9c031318749e880f2fd66d338a83770d0d8fbbffb7bda7afc7f533542fb40f4",
+    "arm": "ternary",
+    "criteria_order": [
+      "GREEN",
+      "RED",
+      "BLUE"
+    ]
+  },
+  "ternary-4": {
+    "path": "payloads/ternary-4.json",
+    "sha256": "2b025975b4c251107cbb112c1bd3cec9eb504c26dc3bb5b59df379988809c8ae",
+    "arm": "ternary",
+    "criteria_order": [
+      "GREEN",
+      "BLUE",
+      "RED"
+    ]
+  },
+  "ternary-5": {
+    "path": "payloads/ternary-5.json",
+    "sha256": "f0cb5c710b385cc7ac7eed25844141d587af8c9d00dbbfb632cd6e06700f4b27",
+    "arm": "ternary",
+    "criteria_order": [
+      "BLUE",
+      "RED",
+      "GREEN"
+    ]
+  },
+  "ternary-6": {
+    "path": "payloads/ternary-6.json",
+    "sha256": "b6ba01e0481938a5fb53cf4a5a0bb06ade530f8a53870cb0e721f20fe02716e9",
+    "arm": "ternary",
+    "criteria_order": [
+      "BLUE",
+      "GREEN",
+      "RED"
+    ]
+  }
+}

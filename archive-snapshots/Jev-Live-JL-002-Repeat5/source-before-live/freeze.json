@@ -1,0 +1,22 @@
+{
+  "frozen_utc": "2026-10-15T19:40:15.381985+00:00",
+  "revision": "JL-002 Repeat5",
+  "files": {
+    "analyze.py": "c466c65f29f9eecd67e12d384ab74a0701543717d9ecd4e6b3359d1128557822",
+    "answer_key.json": "055ddcf8aa83ee82e23d065b24a0790fa348384e3b87a0ad6a75c410b4773a37",
+    "budget.py": "34ef36ffc9fef0beb794f7cac4ba613fb54e7c1823aacf35e67eee2c730f3c2f",
+    "cases.json": "dc66fb5e87926c232f119b5cc7bbeab7a3fddb85f562d880f789a1e27192908c",
+    "dataset.py": "64fbe74d7b73dffb6bc1524c32153dd013d56d510fd3494d7825aa68a024e642",
+    "jev.py": "2eb577efc3d066106b16d1c318848cc1106653b5f06670bab9f25aea07f7abe9",
+    "pilot.py": "de2f64e43f6a3255c1c0da86cdc641a427e98e2e66cc40d12339dc5936ddfcd9",
+    "prompts.json": "8333282794a094ff0464f96d4389ceb14cd72515a17a056f42f83672b4c67d22",
+    "protocol.json": "ac185ebe231477db2faf707b9785b10ce98c1cb5973e96b088a8bc5e2d4756bf",
+    "README.md": "e14ec6fa95a8f77dcec76a42ce8c3bd923f86b5944e74041efcbe26b93d02f94",
+    "repeat.py": "332dc841159fe36bf51b2aac0c6f73627b81b05be8e64edb8a241ec1139f3b3b",
+    "repeat_protocol.json": "1abd5856832e3b6ec9fb01e38e204b7ef6dd91a1ac543fdd5608538411f4975a",
+    "score.py": "3ebe54d40f48d8c583d7310cb2d8cfa4ee3f2abc575cccc463b9a6245a9285b9",
+    "secure_credential.py": "9f0a27ca32ebf4cf888b40a4949ce0e4fb237c202ae104903c0971b1c2f3c11f",
+    "test_repeat.py": "a492bd266eb2a49226742f491bd5c60b84c64c0760a2ca353f5558d252452a59",
+    "verify_cases.py": "c2ae3b0f35c5d92fabe09568efe19b0b0cbc1a86feabe52a91d89a3eeb18f25d"
+  }
+}

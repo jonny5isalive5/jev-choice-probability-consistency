@@ -1,0 +1,22 @@
+{
+  "frozen_at_utc": "2026-10-15T21:01:20.965595+00:00",
+  "scope": "design, payloads, schedule, preservation snapshot; not an executable collector or authorization",
+  "files": {
+    "control-answers.json": "c71274a85df3f7149a2dd05bb73a90be61e099f044bde1a9181a8928a333972e",
+    "payload-manifest.json": "d25af3994f1f5a6e343ae523143c7fa72d64fb46ae64c343eeb6b25a9aa8a01f",
+    "payloads/control-abstain.json": "e17aa544518384d6bd663f1c668b01da4eb20273b9a74b633d54eda517ff8b66",
+    "payloads/control-allow.json": "9131220fdc6f676afadfc28be81ff89b5e575e565af7d6fee60c6dbfe2e7c68f",
+    "payloads/control-deny.json": "015562c1bdc06f2e9baa81addb0bd9155e21a0919ef7189944ff3b275a2cb45a",
+    "payloads/order-1.json": "22f8df52d803fdfd13b0aafab16147664984443109813bbac5230d958f6b000d",
+    "payloads/order-2.json": "4300a2c086e7d27f0e5319dfe15853c066cacf655fe4005b5b3c4382a6368f61",
+    "payloads/order-3.json": "9f3cf33c46d7c2335d380278b6e2dcf6321fa08c281497556745488fe0cadf81",
+    "payloads/order-4.json": "6ed32c991c8d00b03a13c8ef946295efc76975e6cac811138333d3571d79fda1",
+    "payloads/order-5.json": "9718a8a9f846a50953cd70c161482043ce240b936a005b6166887f4994b3e0fd",
+    "payloads/order-6.json": "30949c60b7872baf33ac9b9d138c1f2059332b8e1f9240074d3bc5de45726820",
+    "payloads/original.json": "22f8df52d803fdfd13b0aafab16147664984443109813bbac5230d958f6b000d",
+    "protected-files.json": "a2335337b7fafea670a29755627c8f74126adaf274032f769b1d76d09284cc6b",
+    "PROTOCOL.md": "9a447e65b16e03fc7f7b0ca212ea18c07fc513c8f1be4f48d0f18a0a42997a8c",
+    "schedule.json": "53321fa433f543d544f5fbf34abfb3e6759515fc18218a10a6a1b02d36d4bf77",
+    "verification.json": "6cd8a3a2ff4a9ec19cb4f57a1e0262629f592024cb85b75630aa4c2f1bf61e1e"
+  }
+}

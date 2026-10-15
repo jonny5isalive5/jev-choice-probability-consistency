@@ -1,0 +1,13 @@
+{
+  "utc": "2026-10-15T21:21:58.729421+00:00",
+  "prior_guard_gbp": "0.333736788",
+  "whole_new_run_reserve_gbp": "1.321205760",
+  "combined_maximum_guard_gbp": "1.654942548",
+  "model": "jev-1.14.0",
+  "price_usd_per_million_input": "0.042",
+  "output_free": true,
+  "source": "https://docs.typesafe.ai/models",
+  "design_sha256": "05dfe6b8724db0f4b51b33378feebf6a278c41f1985c47e8c06f58555cd8addd",
+  "protected_file_count": 4852,
+  "only_request_edit": "ABSTAIN -> IGNORE; descriptions unchanged; wire order unchanged"
+}

@@ -1,0 +1,12 @@
+{
+  "attempt": 176,
+  "block": 8,
+  "module": "control",
+  "payload": "control-abstain",
+  "started_utc": "2026-10-15T21:23:51.496866+00:00",
+  "request_sha256": "38365f7d605d45eb23d552ab5a223c9a756d86d865d617ac0b4421be239c3484",
+  "semantic_sha256": "931c24e6faf559b74013c7b1a48f4f78d32e421e08f31dd200a7707c369e9409",
+  "endpoint": "https://api.typesafe.ai/v1/systemone",
+  "reserve_gbp": "0.005505024",
+  "accounted_gbp": "0.367652208"
+}

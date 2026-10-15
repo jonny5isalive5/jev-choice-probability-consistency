@@ -1,0 +1,19 @@
+{
+  "utc": "2026-10-15T21:26:43.966762+00:00",
+  "protected_files_verified_unchanged": 4852,
+  "changed_files": [],
+  "new_source_and_design_hashes_verified": true,
+  "exact_label_only_transform_verified_against_each_previous_request": 240,
+  "schedule_entries_verified": 240,
+  "independent_raw_extraction_verified": 240,
+  "request_ids_captured": 240,
+  "requests": 240,
+  "retries": 0,
+  "http200": 240,
+  "input_tokens": 459120,
+  "output_tokens": 9386,
+  "estimated_cost_usd": "0.019283040",
+  "new_run_cost_at_conservative_gbp_2_per_usd": "0.038566080",
+  "total_guard_gbp_including_prior_and_held_reserve": "0.372302868",
+  "invoice_verified": false
+}

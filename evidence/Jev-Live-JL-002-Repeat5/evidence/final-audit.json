@@ -1,0 +1,197 @@
+{
+  "source_freeze_verified": true,
+  "parent_hashes_verified": true,
+  "original_files_checked": 3100,
+  "original_files_changed": [],
+  "new_inference_attempts": 456,
+  "new_validated_input_tokens": 1128593,
+  "new_validated_output_tokens": 19105,
+  "new_all_received_input_tokens": 1131002,
+  "new_all_received_output_tokens": 19146,
+  "new_all_received_listed_usd": "0.047502084",
+  "new_all_received_gbp_estimate_prior_reference": "0.0361220187260484054759816",
+  "combined_all_received_listed_usd_including_history": "0.144896220",
+  "reported_models": {
+    "jev-1.14.0": 455
+  },
+  "automatic_retries": 0,
+  "new_listed_usd": "0.047400906",
+  "new_gbp_estimate_prior_reference": "0.0360450799203601302927444",
+  "historical_listed_usd_in_guard": "0.097394136",
+  "combined_usd_in_guard": "0.144795042",
+  "maximum_accounted_gbp_including_inflight_reservations": "0.295095108",
+  "final_accounted_gbp_including_prior_runs": "0.295095108",
+  "shared_cap_gbp": "5",
+  "plaintext_secret_occurrences": 0,
+  "repeats": [
+    {
+      "repeat": 1,
+      "status": "PARTIAL",
+      "attempts": 456,
+      "input_tokens": 1128593,
+      "output_tokens": 19105,
+      "listed_usd": "0.047400906",
+      "all_received_input_tokens": 1131002,
+      "all_received_output_tokens": 19146,
+      "all_received_listed_usd": "0.047502084",
+      "rejected_responses": [
+        {
+          "sequence": 456,
+          "case_id": "JL2-028",
+          "arm": "single",
+          "response": {
+            "model": "jev-1.14.0",
+            "answers": {
+              "decision": {
+                "type": "choice",
+                "choice": "ALLOW",
+                "confidence": 0.04,
+                "probabilities": {
+                  "ABSTAIN": 0.36,
+                  "ALLOW": 0.35,
+                  "DENY": 0.29
+                }
+              }
+            },
+            "usage": {
+              "input_tokens": 2409,
+              "output_tokens": 41
+            }
+          },
+          "reported_usage_cost_usd": "0.000101178",
+          "same_request_as_original": true,
+          "original_response": {
+            "answers": {
+              "decision": {
+                "choice": "ABSTAIN",
+                "confidence": 0.06,
+                "probabilities": {
+                  "ABSTAIN": 0.37,
+                  "ALLOW": 0.3,
+                  "DENY": 0.33
+                },
+                "type": "choice"
+              }
+            },
+            "model": "jev-1.14.0",
+            "usage": {
+              "input_tokens": 2409,
+              "output_tokens": 43
+            }
+          }
+        }
+      ],
+      "common_complete_case_ids": [
+        "JL2-001",
+        "JL2-002-I",
+        "JL2-004",
+        "JL2-004-I",
+        "JL2-006",
+        "JL2-009",
+        "JL2-014",
+        "JL2-015",
+        "JL2-016",
+        "JL2-017",
+        "JL2-017-I",
+        "JL2-018",
+        "JL2-018-I",
+        "JL2-020",
+        "JL2-021",
+        "JL2-021-I",
+        "JL2-023",
+        "JL2-023-I",
+        "JL2-024",
+        "JL2-024-I",
+        "JL2-025",
+        "JL2-026",
+        "JL2-027",
+        "JL2-033",
+        "JL2-035",
+        "JL2-035-I",
+        "JL2-036-I",
+        "JL2-037",
+        "JL2-037-I",
+        "JL2-040",
+        "JL2-043",
+        "JL2-044",
+        "JL2-045",
+        "JL2-046",
+        "JL2-047",
+        "JL2-048",
+        "JL2-049",
+        "JL2-050",
+        "JL2-051-I",
+        "JL2-052",
+        "JL2-052-I",
+        "JL2-053",
+        "JL2-053-I",
+        "JL2-054-I",
+        "JL2-055",
+        "JL2-056",
+        "JL2-056-I",
+        "JL2-061",
+        "JL2-062",
+        "JL2-063"
+      ],
+      "paired_original_repeat_on_common_cases": {
+        "single": {
+          "cases": 50,
+          "repeat_correct": 22,
+          "original_correct_same_cases": 24,
+          "changed_final_choices": 4
+        },
+        "swarm": {
+          "cases": 50,
+          "repeat_correct": 21,
+          "original_correct_same_cases": 21,
+          "changed_final_choices": 5
+        },
+        "sequential": {
+          "cases": 50,
+          "repeat_correct": 20,
+          "original_correct_same_cases": 20,
+          "changed_final_choices": 5
+        }
+      },
+      "historical_reference_payloads_identical": 257,
+      "different_answers_on_identical_payloads": 245,
+      "different_choices_on_identical_payloads": 20,
+      "maximum_probability_change_on_identical_payload": "0.3",
+      "rounded_mass_sequences": [
+        204,
+        293
+      ],
+      "failures": [
+        {
+          "arm": "single",
+          "case_id": "JL2-028",
+          "event": "stopped",
+          "reason": "choice is not a probability maximum",
+          "sequence": 456,
+          "stage": 0
+        }
+      ],
+      "started_utc": "2026-10-15T19:41:54.787970+00:00",
+      "finished_utc": "2026-10-15T19:45:11.872075+00:00"
+    },
+    {
+      "repeat": 2,
+      "status": "NOT_STARTED_OR_UNSEALED"
+    },
+    {
+      "repeat": 3,
+      "status": "NOT_STARTED_OR_UNSEALED"
+    },
+    {
+      "repeat": 4,
+      "status": "NOT_STARTED_OR_UNSEALED"
+    },
+    {
+      "repeat": 5,
+      "status": "NOT_STARTED_OR_UNSEALED"
+    }
+  ],
+  "completed_new_repeats": 0,
+  "stopped": "Repeat 1: choice is not a probability maximum",
+  "model_fingerprint_note": "Pinned returned model string only; separate server fingerprint unavailable; no client seed or cache control."
+}

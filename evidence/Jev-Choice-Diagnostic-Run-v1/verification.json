@@ -1,0 +1,18 @@
+{
+  "utc": "2026-10-15T21:17:27.720698+00:00",
+  "protected_files_unchanged": 3630,
+  "changed_files": [],
+  "source_freeze_unchanged": true,
+  "exact_wire_schedule_verified": 240,
+  "independent_raw_extraction_verified": 240,
+  "requests_with_ids": 240,
+  "retries": 0,
+  "http200": 240,
+  "input_tokens": 460020,
+  "output_tokens": 9998,
+  "cost_usd_from_reported_usage": "0.019320840",
+  "cost_gbp_at_conservative_2_per_usd": "0.038641680",
+  "invoice_verified": false,
+  "unresolved_prior_reserve_retained": true,
+  "confidence_interval_disagreements": 0
+}

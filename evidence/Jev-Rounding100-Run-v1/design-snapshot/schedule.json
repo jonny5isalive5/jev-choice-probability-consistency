@@ -1,0 +1,602 @@
+[
+  {
+    "attempt": 1,
+    "block": 1,
+    "arm": "ternary",
+    "payload": "ternary-2"
+  },
+  {
+    "attempt": 2,
+    "block": 1,
+    "arm": "ternary",
+    "payload": "ternary-3"
+  },
+  {
+    "attempt": 3,
+    "block": 1,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 4,
+    "block": 1,
+    "arm": "ternary",
+    "payload": "ternary-4"
+  },
+  {
+    "attempt": 5,
+    "block": 1,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 6,
+    "block": 1,
+    "arm": "ternary",
+    "payload": "ternary-1"
+  },
+  {
+    "attempt": 7,
+    "block": 1,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 8,
+    "block": 1,
+    "arm": "ternary",
+    "payload": "ternary-5"
+  },
+  {
+    "attempt": 9,
+    "block": 1,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 10,
+    "block": 1,
+    "arm": "ternary",
+    "payload": "ternary-6"
+  },
+  {
+    "attempt": 11,
+    "block": 2,
+    "arm": "ternary",
+    "payload": "ternary-6"
+  },
+  {
+    "attempt": 12,
+    "block": 2,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 13,
+    "block": 2,
+    "arm": "ternary",
+    "payload": "ternary-1"
+  },
+  {
+    "attempt": 14,
+    "block": 2,
+    "arm": "ternary",
+    "payload": "ternary-4"
+  },
+  {
+    "attempt": 15,
+    "block": 2,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 16,
+    "block": 2,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 17,
+    "block": 2,
+    "arm": "ternary",
+    "payload": "ternary-2"
+  },
+  {
+    "attempt": 18,
+    "block": 2,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 19,
+    "block": 2,
+    "arm": "ternary",
+    "payload": "ternary-3"
+  },
+  {
+    "attempt": 20,
+    "block": 2,
+    "arm": "ternary",
+    "payload": "ternary-5"
+  },
+  {
+    "attempt": 21,
+    "block": 3,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 22,
+    "block": 3,
+    "arm": "ternary",
+    "payload": "ternary-3"
+  },
+  {
+    "attempt": 23,
+    "block": 3,
+    "arm": "ternary",
+    "payload": "ternary-1"
+  },
+  {
+    "attempt": 24,
+    "block": 3,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 25,
+    "block": 3,
+    "arm": "ternary",
+    "payload": "ternary-6"
+  },
+  {
+    "attempt": 26,
+    "block": 3,
+    "arm": "ternary",
+    "payload": "ternary-4"
+  },
+  {
+    "attempt": 27,
+    "block": 3,
+    "arm": "ternary",
+    "payload": "ternary-2"
+  },
+  {
+    "attempt": 28,
+    "block": 3,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 29,
+    "block": 3,
+    "arm": "ternary",
+    "payload": "ternary-5"
+  },
+  {
+    "attempt": 30,
+    "block": 3,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 31,
+    "block": 4,
+    "arm": "ternary",
+    "payload": "ternary-4"
+  },
+  {
+    "attempt": 32,
+    "block": 4,
+    "arm": "ternary",
+    "payload": "ternary-6"
+  },
+  {
+    "attempt": 33,
+    "block": 4,
+    "arm": "ternary",
+    "payload": "ternary-2"
+  },
+  {
+    "attempt": 34,
+    "block": 4,
+    "arm": "ternary",
+    "payload": "ternary-5"
+  },
+  {
+    "attempt": 35,
+    "block": 4,
+    "arm": "ternary",
+    "payload": "ternary-3"
+  },
+  {
+    "attempt": 36,
+    "block": 4,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 37,
+    "block": 4,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 38,
+    "block": 4,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 39,
+    "block": 4,
+    "arm": "ternary",
+    "payload": "ternary-1"
+  },
+  {
+    "attempt": 40,
+    "block": 4,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 41,
+    "block": 5,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 42,
+    "block": 5,
+    "arm": "ternary",
+    "payload": "ternary-3"
+  },
+  {
+    "attempt": 43,
+    "block": 5,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 44,
+    "block": 5,
+    "arm": "ternary",
+    "payload": "ternary-6"
+  },
+  {
+    "attempt": 45,
+    "block": 5,
+    "arm": "ternary",
+    "payload": "ternary-4"
+  },
+  {
+    "attempt": 46,
+    "block": 5,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 47,
+    "block": 5,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 48,
+    "block": 5,
+    "arm": "ternary",
+    "payload": "ternary-1"
+  },
+  {
+    "attempt": 49,
+    "block": 5,
+    "arm": "ternary",
+    "payload": "ternary-2"
+  },
+  {
+    "attempt": 50,
+    "block": 5,
+    "arm": "ternary",
+    "payload": "ternary-5"
+  },
+  {
+    "attempt": 51,
+    "block": 6,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 52,
+    "block": 6,
+    "arm": "ternary",
+    "payload": "ternary-1"
+  },
+  {
+    "attempt": 53,
+    "block": 6,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 54,
+    "block": 6,
+    "arm": "ternary",
+    "payload": "ternary-2"
+  },
+  {
+    "attempt": 55,
+    "block": 6,
+    "arm": "ternary",
+    "payload": "ternary-4"
+  },
+  {
+    "attempt": 56,
+    "block": 6,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 57,
+    "block": 6,
+    "arm": "ternary",
+    "payload": "ternary-5"
+  },
+  {
+    "attempt": 58,
+    "block": 6,
+    "arm": "ternary",
+    "payload": "ternary-6"
+  },
+  {
+    "attempt": 59,
+    "block": 6,
+    "arm": "ternary",
+    "payload": "ternary-3"
+  },
+  {
+    "attempt": 60,
+    "block": 6,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 61,
+    "block": 7,
+    "arm": "ternary",
+    "payload": "ternary-4"
+  },
+  {
+    "attempt": 62,
+    "block": 7,
+    "arm": "ternary",
+    "payload": "ternary-5"
+  },
+  {
+    "attempt": 63,
+    "block": 7,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 64,
+    "block": 7,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 65,
+    "block": 7,
+    "arm": "ternary",
+    "payload": "ternary-1"
+  },
+  {
+    "attempt": 66,
+    "block": 7,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 67,
+    "block": 7,
+    "arm": "ternary",
+    "payload": "ternary-2"
+  },
+  {
+    "attempt": 68,
+    "block": 7,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 69,
+    "block": 7,
+    "arm": "ternary",
+    "payload": "ternary-6"
+  },
+  {
+    "attempt": 70,
+    "block": 7,
+    "arm": "ternary",
+    "payload": "ternary-3"
+  },
+  {
+    "attempt": 71,
+    "block": 8,
+    "arm": "ternary",
+    "payload": "ternary-6"
+  },
+  {
+    "attempt": 72,
+    "block": 8,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 73,
+    "block": 8,
+    "arm": "ternary",
+    "payload": "ternary-2"
+  },
+  {
+    "attempt": 74,
+    "block": 8,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 75,
+    "block": 8,
+    "arm": "ternary",
+    "payload": "ternary-1"
+  },
+  {
+    "attempt": 76,
+    "block": 8,
+    "arm": "ternary",
+    "payload": "ternary-5"
+  },
+  {
+    "attempt": 77,
+    "block": 8,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 78,
+    "block": 8,
+    "arm": "ternary",
+    "payload": "ternary-4"
+  },
+  {
+    "attempt": 79,
+    "block": 8,
+    "arm": "ternary",
+    "payload": "ternary-3"
+  },
+  {
+    "attempt": 80,
+    "block": 8,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 81,
+    "block": 9,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 82,
+    "block": 9,
+    "arm": "ternary",
+    "payload": "ternary-5"
+  },
+  {
+    "attempt": 83,
+    "block": 9,
+    "arm": "ternary",
+    "payload": "ternary-4"
+  },
+  {
+    "attempt": 84,
+    "block": 9,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 85,
+    "block": 9,
+    "arm": "ternary",
+    "payload": "ternary-3"
+  },
+  {
+    "attempt": 86,
+    "block": 9,
+    "arm": "ternary",
+    "payload": "ternary-2"
+  },
+  {
+    "attempt": 87,
+    "block": 9,
+    "arm": "ternary",
+    "payload": "ternary-1"
+  },
+  {
+    "attempt": 88,
+    "block": 9,
+    "arm": "ternary",
+    "payload": "ternary-6"
+  },
+  {
+    "attempt": 89,
+    "block": 9,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 90,
+    "block": 9,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 91,
+    "block": 10,
+    "arm": "ternary",
+    "payload": "ternary-2"
+  },
+  {
+    "attempt": 92,
+    "block": 10,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 93,
+    "block": 10,
+    "arm": "ternary",
+    "payload": "ternary-5"
+  },
+  {
+    "attempt": 94,
+    "block": 10,
+    "arm": "ternary",
+    "payload": "ternary-3"
+  },
+  {
+    "attempt": 95,
+    "block": 10,
+    "arm": "binary",
+    "payload": "binary-2"
+  },
+  {
+    "attempt": 96,
+    "block": 10,
+    "arm": "ternary",
+    "payload": "ternary-1"
+  },
+  {
+    "attempt": 97,
+    "block": 10,
+    "arm": "binary",
+    "payload": "binary-1"
+  },
+  {
+    "attempt": 98,
+    "block": 10,
+    "arm": "ternary",
+    "payload": "ternary-4"
+  },
+  {
+    "attempt": 99,
+    "block": 10,
+    "arm": "ternary",
+    "payload": "ternary-6"
+  },
+  {
+    "attempt": 100,
+    "block": 10,
+    "arm": "binary",
+    "payload": "binary-1"
+  }
+]

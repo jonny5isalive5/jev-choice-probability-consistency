@@ -1,0 +1,24 @@
+Repeat 1/5: 8/96 cases complete
+Repeat 1/5: 16/96 cases complete
+Repeat 1/5: 24/96 cases complete
+Repeat 1/5: 32/96 cases complete
+Repeat 1/5: 40/96 cases complete
+Repeat 1/5: 48/96 cases complete
+{
+  "live_mode": true,
+  "planned_repeats": 5,
+  "finished_repeats": 1,
+  "complete_repeats": 0,
+  "stop": "Repeat 1: choice is not a probability maximum",
+  "budget": {
+    "new_attempts": 456,
+    "new_listed_usd": "0.047400906",
+    "historical_listed_usd": "0.097394136",
+    "combined_listed_usd": "0.144795042",
+    "accounted_gbp_at_conservative_rate": "0.295095108",
+    "hard_ceiling_gbp": "5",
+    "pending_reservation": true,
+    "halted": true
+  },
+  "finished_utc": "2026-10-15T19:45:11.888396+00:00"
+}

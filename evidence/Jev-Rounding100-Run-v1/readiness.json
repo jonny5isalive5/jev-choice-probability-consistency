@@ -1,0 +1,12 @@
+{
+  "utc": "2026-10-15T21:59:58.500226+00:00",
+  "design_sha256": "6291d64a9b81a7def41862bd09bbf513c588231694967a58c073d2e047cebf0f",
+  "protected_files": 8278,
+  "max_calls": 100,
+  "prior_guard_gbp": "0.447300588",
+  "whole_run_maximum_gbp": "0.550502400",
+  "combined_maximum_gbp": "0.997802988",
+  "rate_usd_per_million_input": "0.042",
+  "output_free": true,
+  "source": "https://docs.typesafe.ai/models"
+}
