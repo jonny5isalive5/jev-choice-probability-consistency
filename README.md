@@ -1,6 +1,6 @@
 # Jev Choice/Probability Consistency Experiments
 
-**Publication draft for owner review — prepared 16 October 2026. Not an official TypeSafe project.**
+prepared 16 October 2026. Not an official TypeSafe project.**
 
 We ran small, frozen experiments using TypeSafe's typed Choice API with `jev-1.14.0`. The original question was whether several calls with different analytical perspectives, followed by synthesis, would outperform one call or a sequential controller. During repeatability testing, we found responses where `choice` differed from the option with the highest reported probability.
 
