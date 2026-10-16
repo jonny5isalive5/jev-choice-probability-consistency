@@ -1,6 +1,6 @@
 {
   "prepared_date": "2026-10-16",
-  "status": "Prepared locally for owner review; not published",
+  "status": "Prepublication review completed; owner approved publication on 2026-10-16",
   "new_live_calls": 0,
   "new_spend": 0,
   "github_uploads": 0,
@@ -16,5 +16,6 @@
   "historical_live_collectors_executed": false,
   "license_selected": false,
   "scope": "All real Jev experiment results, failures and diagnostics; historical mock/preparation artifacts labelled and excluded from live totals; synthetic JS studies excluded and untouched",
-  "limits": "Scans cannot guarantee absence of every unknown secret. Current key check does not cover all possible historical credentials. No provider-internal cause or swarm superiority is established."
+  "limits": "Scans cannot guarantee absence of every unknown secret. Current key check does not cover all possible historical credentials. No provider-internal cause or swarm superiority is established.",
+  "counts_scope": "Original preparation-stage checks and activity. github_uploads=0 describes preparation, not the subsequent publication."
 }

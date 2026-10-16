@@ -21,12 +21,12 @@ The local review compares the publication copy with the existing API credential 
 
 The public offline verifier checks the complete publication manifest, provenance hashes, unchanged live responses, reused-prefix identity, headline scores, usage totals, mismatch totals and near-tie counts. All included Python sources parse; archived collectors are not executed. Documentation links inside the new overview are checked against the package.
 
-The dated review outcome and counts are recorded in `PUBLICATION_REVIEW.json`. The publication directory contains no Git history, remote configuration, automatic workflow or credential file. No GitHub repository, release or upload has been created by this preparation.
+The dated review outcome and counts are recorded in `PUBLICATION_REVIEW.json`. At the time of that preparation review, the export contained no Git history, remote configuration, automatic workflow or credential file. Publication was subsequently approved by the owner and completed on 16 October 2026; this repository now has normal Git history.
 
 ## Scope and limits
 
 Experimental timestamps, fictional cases, option labels, returned model IDs, public API URLs, token counts, costs and technical hashes are intentionally retained. These are relevant research metadata. A stable trace alias does not anonymize the content of a fictional request, and hashes are integrity identifiers, not signatures.
 
-Automated scanning and manual inspection cannot prove the absence of every unknown secret or identifying inference. The exact stored-key comparison covers the currently configured experiment key, not all credentials that could ever have existed. The owner should review this copy before publication. The review does not grant a software/data license or imply TypeSafe endorsement.
+Automated scanning and manual inspection cannot prove the absence of every unknown secret or identifying inference. The exact stored-key comparison covers the currently configured experiment key, not all credentials that could ever have existed. The owner reviewed and approved the publication copy before it was published. The review does not grant a software/data license or imply TypeSafe endorsement.
 
-Only this `repository/` directory, or its separately checked publication zip, is intended for public release. Private preparation files in the parent review directory must not be uploaded.
+Private preparation files and the provider trace-ID mapping are excluded from this repository.

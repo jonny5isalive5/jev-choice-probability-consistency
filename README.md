@@ -1,6 +1,6 @@
 # Jev Choice/Probability Consistency Experiments
 
-prepared 16 October 2026. Not an official TypeSafe project.**
+Published 16 October 2026. Not an official TypeSafe project.
 
 We ran small, frozen experiments using TypeSafe's typed Choice API with `jev-1.14.0`. The original question was whether several calls with different analytical perspectives, followed by synthesis, would outperform one call or a sequential controller. During repeatability testing, we found responses where `choice` differed from the option with the highest reported probability.
 
@@ -93,7 +93,7 @@ Total reported usage across 2,538 distinct calls gives **USD 0.222573120** at th
 
 The earlier JL-001 preparation and mock runs are retained in their original named folders for completeness, but are excluded from the live-response index and all live totals. JS-001/JS-002/JS-003 were synthetic predecessors, are outside this real-model publication scope and have not been modified or re-audited.
 
-No software/data license has been selected for this draft. Inclusion does not grant a new license to third-party material. Full third-party documentation captures and private Discord correspondence are excluded; relevant public documentation is linked below.
+No software/data license has been selected for this repository. Inclusion does not grant a new license to third-party material. Full third-party documentation captures and private Discord correspondence are excluded; relevant public documentation is linked below.
 
 ## Documentation referenced during the experiments
 

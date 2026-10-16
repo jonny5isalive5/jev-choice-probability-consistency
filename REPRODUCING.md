@@ -20,4 +20,4 @@ Privacy changes can invalidate historical hash references for a modified metadat
 
 Historical collectors used local source/evidence paths, Windows Credential Manager and a direct TypeSafe API transport. The public copy anonymizes those paths and replaces credential modules with a stub that refuses access. Other transport code is retained for review, not enabled by the public verifier. Do not execute archived live entry points as a reproduction shortcut. A future live experiment would need explicit authorization, fresh pricing/interface checks, a new budget and a separate frozen design.
 
-No GitHub Action, background job, scheduled task or automatic live replay is included. The owner has not approved publication of this draft or chosen a distribution license.
+No GitHub Action, background job, scheduled task or automatic live replay is included. The owner approved publication on 16 October 2026. No distribution license has been selected.
